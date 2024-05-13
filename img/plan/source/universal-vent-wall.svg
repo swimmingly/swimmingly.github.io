@@ -399,9 +399,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15744728"
-     inkscape:cx="273.10729"
-     inkscape:cy="1486.2118"
+     inkscape:zoom="0.31845209"
+     inkscape:cx="1161.8702"
+     inkscape:cy="1441.3471"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -526,7 +526,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path2054"
-       d="m 1877.5,56.200137 h 250 V 306.20014 h -250 z"
+       d="m 1877.5,56.200137 h 242 V 306.20014 h -242 z"
        style="display:inline;vector-effect:none;fill:#dcdcdc;fill-opacity:0.4;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.2848;stroke-opacity:1"
        inkscape:export-xdpi="46.717403"
        inkscape:export-ydpi="46.717403"
@@ -758,64 +758,62 @@
      transform="translate(-1620.7798,278.00001)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;inline-size:202.148;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;inline-size:202.148;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
        x="2159.1172"
        y="-5.8093796"
        id="text1987"
        inkscape:export-xdpi="94.089996"
        inkscape:export-ydpi="94.089996"
-       transform="translate(-109.61719,195.00969)"><tspan
+       transform="translate(-111.21679,195.00969)"><tspan
          x="2159.1172"
          y="-5.8093796"
-         id="tspan11953"><tspan
+         id="tspan16809"><tspan
            style="font-weight:bold"
-           id="tspan11949">short version:</tspan><tspan
+           id="tspan16805">short version:</tspan><tspan
            style="line-height:1"
-           id="tspan11951">
+           id="tspan16807">
 </tspan></tspan><tspan
          x="2159.1172"
-         y="3.7156205"
-         id="tspan11957"><tspan
+         y="3.0100601"
+         id="tspan16813"><tspan
            style="line-height:1"
-           id="tspan11955">- trim at dash-
+           id="tspan16811">- trim at dash-
 </tspan></tspan><tspan
          x="2159.1172"
-         y="13.24062"
-         id="tspan11961"><tspan
+         y="11.8295"
+         id="tspan16817"><tspan
            style="line-height:1"
-           id="tspan11959">dotted line
+           id="tspan16815">dotted line
 </tspan></tspan><tspan
          x="2159.1172"
-         y="22.76562"
-         id="tspan11965"><tspan
+         y="20.64894"
+         id="tspan16821"><tspan
            style="line-height:1"
-           id="tspan11963">- omit side wall 
+           id="tspan16819">- omit side wall 
 </tspan></tspan><tspan
          x="2159.1172"
-         y="32.290619"
-         id="tspan11969"><tspan
+         y="29.468381"
+         id="tspan16825"><tspan
            style="line-height:1"
-           id="tspan11967">and inner baffle
+           id="tspan16823">and inner baffle
 </tspan></tspan><tspan
          x="2159.1172"
-         y="41.815617"
-         id="tspan11973"><tspan
+         y="38.28782"
+         id="tspan16829"><tspan
            style="line-height:1"
-           id="tspan11971">- glue seal and 
+           id="tspan16827">- glue seal and 
 </tspan></tspan><tspan
          x="2159.1172"
-         y="51.340619"
-         id="tspan11979"><tspan
+         y="47.107259"
+         id="tspan16833"><tspan
            style="line-height:1"
-           id="tspan11975">flaps </tspan><tspan
-           style="line-height:1"
-           id="tspan11977">to side 
+           id="tspan16831">flaps to side 
 </tspan></tspan><tspan
          x="2159.1172"
-         y="60.86562"
-         id="tspan11983"><tspan
+         y="55.926698"
+         id="tspan16837"><tspan
            style="line-height:1"
-           id="tspan11981">opening</tspan></tspan></text>
+           id="tspan16835">opening</tspan></tspan></text>
     <text
        y="342.35852"
        x="1626.3413"
@@ -880,7 +878,7 @@
          sodipodi:role="line"
          id="tspan2078"
          x="2002.4565"
-         y="124.89062">250 x 250</tspan></text>
+         y="124.89062">242 x 250</tspan></text>
     <text
        y="-182.67935"
        x="1727.5"
@@ -910,9 +908,9 @@
        transform="translate(-205.81245,195)"><tspan
          x="2159.1172"
          y="-5.8093796"
-         id="tspan11987"><tspan
+         id="tspan16841"><tspan
            style="line-height:1"
-           id="tspan11985">168</tspan></tspan></text>
+           id="tspan16839">168</tspan></tspan></text>
     <text
        y="35.690647"
        x="2002.5"
@@ -987,49 +985,73 @@
        transform="rotate(-90,1874.2041,370.89473)"><tspan
          x="2397.8984"
          y="142.19063"
-         id="tspan11991"><tspan
+         id="tspan16845"><tspan
            style="font-weight:bold"
-           id="tspan11989">spacers
+           id="tspan16843">spacers
 </tspan></tspan><tspan
          x="2397.8984"
          y="154.89063"
-         id="tspan11993">32  x  250
+         id="tspan16847">32  x  250
 </tspan><tspan
          x="2397.8984"
          y="167.59063"
-         id="tspan11995">(reusable)</tspan></text>
+         id="tspan16849">(reusable)</tspan></text>
     <text
-       y="1808.8232"
-       x="-15.038361"
+       y="-29.509586"
+       x="1822.9061"
        id="text2953"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:95%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
        xml:space="preserve"
        inkscape:export-filename="/home/hill/wood8mmparts.png"
        inkscape:export-xdpi="46.717403"
-       inkscape:export-ydpi="46.717403"
-       transform="rotate(-90)"><tspan
+       inkscape:export-ydpi="46.717403"><tspan
          sodipodi:role="line"
-         x="-15.038363"
-         y="1808.8232"
+         x="1822.9061"
+         y="-29.509586"
          id="tspan2951"
          style="font-weight:normal;text-align:center;text-anchor:middle"><tspan
            id="tspan3019"
-           style="font-weight:bold;text-align:center;text-anchor:middle">b  a  f  f  l  e  s</tspan></tspan><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle">b a f f l e s</tspan></tspan><tspan
          sodipodi:role="line"
-         x="-15.038361"
-         y="1821.5232"
+         x="1822.9061"
+         y="-17.444586"
          style="font-weight:normal;text-align:center;text-anchor:middle"
          id="tspan64209" /><tspan
          sodipodi:role="line"
-         x="-15.038361"
-         y="1834.2233"
+         x="1822.9061"
+         y="-5.3795872"
          style="font-weight:normal;text-align:center;text-anchor:middle"
          id="tspan64211" /><tspan
          sodipodi:role="line"
-         x="-15.038362"
-         y="1846.9232"
+         x="1822.9061"
+         y="6.6854129"
          style="font-weight:normal;text-align:center;text-anchor:middle"
-         id="tspan3021">3 6    x    2 5 0</tspan></text>
+         id="tspan14235" /><tspan
+         sodipodi:role="line"
+         x="1822.9061"
+         y="18.750412"
+         style="font-weight:normal;text-align:center;text-anchor:middle"
+         id="tspan14237" /><tspan
+         sodipodi:role="line"
+         x="1822.9061"
+         y="30.815413"
+         style="font-weight:normal;text-align:center;text-anchor:middle"
+         id="tspan14239" /><tspan
+         sodipodi:role="line"
+         x="1822.9061"
+         y="42.880413"
+         style="font-weight:normal;text-align:center;text-anchor:middle"
+         id="tspan14241" /><tspan
+         sodipodi:role="line"
+         x="1822.9061"
+         y="54.945412"
+         style="font-weight:normal;text-align:center;text-anchor:middle"
+         id="tspan14345" /><tspan
+         sodipodi:role="line"
+         x="1822.9061"
+         y="67.010414"
+         style="font-weight:normal;text-align:center;text-anchor:middle"
+         id="tspan3021">36 x 250</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:start;word-spacing:-0.0185208px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1098,9 +1120,9 @@
        transform="translate(-266.81245,13)"><tspan
          x="2159.1172"
          y="-5.8093796"
-         id="tspan11999"><tspan
+         id="tspan16853"><tspan
            style="font-style:normal"
-           id="tspan11997">44            40           40           40     4     40            42</tspan></tspan></text>
+           id="tspan16851">44            40           40           40     4     40            42</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -1168,6 +1190,20 @@
        inkscape:transform-center-x="2.9982078e-05"
        inkscape:transform-center-y="-2.9724267e-05"
        transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:80%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;inline-size:226.974;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1"
+       x="2159.1172"
+       y="-5.8093796"
+       id="text12935"
+       inkscape:export-xdpi="94.089996"
+       inkscape:export-ydpi="94.089996"
+       transform="translate(-37.81245,70)"><tspan
+         x="2159.1172"
+         y="-5.8093796"
+         id="tspan16857"><tspan
+           style="font-style:normal"
+           id="tspan16855">8</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1193,9 +1229,9 @@
          transform="translate(-4.199906)"><tspan
            x="2366.6289"
            y="142.19063"
-           id="tspan12003"><tspan
+           id="tspan16861"><tspan
    style="font-weight:bold"
-   id="tspan12001">baffles</tspan>             36  x  248</tspan></text>
+   id="tspan16859">baffles</tspan>             36  x  248</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;inline-size:192.411;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -1207,40 +1243,40 @@
          transform="translate(-41.237287,5.76815)"><tspan
            x="2159.1172"
            y="-5.8093796"
-           id="tspan12009"><tspan
+           id="tspan16867"><tspan
              style="font-weight:bold"
-             id="tspan12005">short version:</tspan><tspan
+             id="tspan16863">short version:</tspan><tspan
              style="line-height:1"
-             id="tspan12007">
+             id="tspan16865">
 </tspan></tspan><tspan
            x="2159.1172"
            y="6.8906205"
-           id="tspan12015"><tspan
+           id="tspan16873"><tspan
              style="line-height:1"
-             id="tspan12011">- trim on dash-dotted </tspan><tspan
+             id="tspan16869">- trim on dash-dotted </tspan><tspan
              style="line-height:1"
-             id="tspan12013">lines
+             id="tspan16871">lines
 </tspan></tspan><tspan
            x="2159.1172"
            y="19.59062"
-           id="tspan12021"><tspan
+           id="tspan16879"><tspan
              style="line-height:1"
-             id="tspan12017">- omit side wall and one </tspan><tspan
+             id="tspan16875">- omit side wall and one </tspan><tspan
              style="line-height:1"
-             id="tspan12019">baffle
+             id="tspan16877">baffle
 </tspan></tspan><tspan
            x="2159.1172"
            y="32.290621"
-           id="tspan12027"><tspan
+           id="tspan16885"><tspan
              style="line-height:1"
-             id="tspan12023">- attach seal and flaps </tspan><tspan
+             id="tspan16881">- attach seal and flaps </tspan><tspan
              style="line-height:1"
-             id="tspan12025">to side </tspan></tspan><tspan
+             id="tspan16883">to side </tspan></tspan><tspan
            x="2159.1172"
            y="44.990622"
-           id="tspan12031"><tspan
+           id="tspan16889"><tspan
              style="line-height:1"
-             id="tspan12029">opening </tspan></tspan></text>
+             id="tspan16887">opening </tspan></tspan></text>
       <text
          y="-55.300552"
          x="2530.2957"
@@ -1332,9 +1368,9 @@
          transform="translate(-210.81245,72.999999)"><tspan
            x="2159.1172"
            y="-5.8093796"
-           id="tspan12035"><tspan
+           id="tspan16893"><tspan
              style="line-height:1"
-             id="tspan12033">158</tspan></tspan></text>
+             id="tspan16891">158</tspan></tspan></text>
       <text
          y="-25.809387"
          x="1996.9342"
@@ -1365,9 +1401,9 @@
          transform="translate(24.900003,73.000002)"><tspan
            x="2159.1172"
            y="-5.8093796"
-           id="tspan12039"><tspan
+           id="tspan16897"><tspan
              style="line-height:1"
-             id="tspan12037">158</tspan></tspan></text>
+             id="tspan16895">158</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:-0.79375px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
