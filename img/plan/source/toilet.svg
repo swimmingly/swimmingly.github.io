@@ -1490,11 +1490,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10785024"
-     inkscape:cx="1400.0896"
-     inkscape:cy="2271.6686"
+     inkscape:zoom="0.36394884"
+     inkscape:cx="1041.3552"
+     inkscape:cy="1766.7318"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9116"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1359"
      inkscape:window-height="738"
@@ -1580,7 +1580,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="background"
-     style="display:none"
+     style="display:inline"
      transform="translate(4.2997003,624.18355)"
      sodipodi:insensitive="true">
     <rect
@@ -1590,6 +1590,129 @@
        height="7677.3872"
        x="-4819.6616"
        y="-4137.668" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="screws"
+     style="display:inline">
+    <path
+       id="path8472"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 616.7,76.01673 10e-6,-4.00001 27.99997,-2e-5 3.00002,-1.99995 -1e-5,7.99995 -3.00001,-1.99996 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.2997001,624.18354)" />
+    <path
+       id="path8478"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 616.70002,-144.98326 10e-6,-4.00001 27.99996,1e-5 2.99999,-2.00001 v 8 l -3,-2 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.2997001,624.18354)" />
+    <path
+       id="path8480"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 616.7,-365.98328 10e-6,-3.99999 h 27.99998 l 2.99998,-2 v 8.00002 l -2.99999,-2.00004 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.2997001,624.18354)" />
+    <path
+       id="path8566"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 680.8003,379.33704 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path8568"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 680.8003,320.33704 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path8570"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 680.8003,-131.66296 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path8572"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 680.8003,-190.66296 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path2183"
+       style="font-variation-settings:normal;display:inline;opacity:1;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 144.7,213.01644 h 3.99998 v 27.99999 l 2,3 H 142.7 l 2,-3 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       transform="translate(4.2997001,624.18354)" />
+    <path
+       id="path3181"
+       style="font-variation-settings:normal;display:inline;opacity:1;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 408.7,213.01644 h -4 v 28 l -2,3 h 8 l -2,-3 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       transform="translate(4.2997001,624.18354)" />
+    <path
+       id="path38444"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 48.80068,516.337 h 4 l 1e-5,-60.9997 1.99995,-3 H 46.8007 l 1.99996,3 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path38446"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 139.80067,516.337 h 4.00001 l 1e-5,-60.9997 1.99995,-3 h -7.99995 l 1.99996,3 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path38448"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 409.80068,516.337 h 4.00001 l 1e-5,-60.9997 1.99995,-3 h -7.99995 l 1.99996,3 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
+    <path
+       id="path38450"
+       style="font-variation-settings:normal;display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 500.80068,516.337 h 4.00001 l 1e-5,-60.9997 1.99995,-3 h -7.99995 l 1.99996,3 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
+       inkscape:export-xdpi="28.075163"
+       inkscape:export-ydpi="28.075163"
+       transform="translate(4.1997,384.86292)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1604,14 +1727,6 @@
        style="display:inline"
        transform="translate(0.1,239.32064)">
       <path
-         id="path8472"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 616.7,76.01673 10e-6,-4.00001 27.99997,-2e-5 3.00002,-1.99995 -1e-5,7.99995 -3.00001,-1.99996 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
          id="path8474"
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-width:0.399998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 641.69995,94.0164 -10e-6,-481.99999 6.00001,-1e-5 v 482 z"
@@ -1624,22 +1739,6 @@
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-width:0.399998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 635.69994,94.0164 10e-6,-481.99999 h 6 l 1e-5,481.99999 z"
          sodipodi:nodetypes="ccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path8478"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 616.70002,-144.98326 10e-6,-4.00001 27.99996,1e-5 2.99999,-2.00001 v 8 l -3,-2 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path8480"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 616.7,-365.98328 10e-6,-3.99999 h 27.99998 l 2.99998,-2 v 8.00002 l -2.99999,-2.00004 z"
-         sodipodi:nodetypes="ccccccc"
          inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163" />
@@ -1720,38 +1819,6 @@
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
          inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png" />
-      <path
-         id="path8566"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 680.8003,379.33704 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path8568"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 680.8003,320.33704 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path8570"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 680.8003,-131.66296 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path8572"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 680.8003,-190.66296 v -4.00001 l -60.99998,-1e-5 -3.00002,-1.99995 10e-6,7.99995 3.00001,-1.99996 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1906,13 +1973,13 @@
            id="tspan8918"
            x="-180.18279"
            y="684.09442"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">front</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">front</tspan></text>
       <text
          transform="rotate(-90)"
          id="text8930"
          y="790.02582"
          x="-13.546173"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
@@ -1924,7 +1991,7 @@
            style="font-size:20.32px;line-height:1.25;stroke-width:0.282222">skirt</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          x="179.25345"
          y="674.35541"
          id="text8950"
@@ -1936,7 +2003,7 @@
            id="tspan8948"
            x="179.25345"
            y="674.35541"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';stroke-width:0.282222">side elevation</tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Trebuchet MS Italic';stroke-width:0.282222">side elevation</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:0%;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1956,7 +2023,7 @@
          id="text8958"
          y="771.40033"
          x="82.98111"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
@@ -2024,13 +2091,13 @@
            id="tspan8972"
            x="-130.1073"
            y="807.51996"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">leg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">leg</tspan></text>
       <text
          transform="rotate(-90)"
          id="text9036"
          y="513.95264"
          x="106.45383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
          inkscape:export-xdpi="28.075163"
@@ -2075,7 +2142,7 @@
            id="tspan9080"
            x="-68.197594"
            y="1009.6379"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">4° cut line for sloping squat toilet</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">4° cut line for sloping squat toilet</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -2103,27 +2170,27 @@
            sodipodi:role="line"
            x="616.48987"
            y="-631.7207"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222"
            id="tspan9096" /><tspan
            sodipodi:role="line"
            x="616.48987"
            y="-609.00177"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222"
            id="tspan9098">main wood pieces:</tspan><tspan
            sodipodi:role="line"
            x="616.48987"
            y="-586.28284"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222"
            id="tspan9100">140 x 600 x 19,  2 platforms</tspan><tspan
            sodipodi:role="line"
            x="616.48987"
            y="-563.5639"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222"
            id="tspan9102">  89 x 482 x 19,  front, back</tspan><tspan
            sodipodi:role="line"
            x="616.48987"
            y="-540.84497"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222"
            id="tspan9104">  89 x 410 x 19,  4 legs</tspan></text>
       <text
          id="text22050"
@@ -2150,7 +2217,7 @@
          id="text3786"
          y="713.02582"
          x="126.45383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
@@ -2174,7 +2241,7 @@
            id="tspan5594"
            x="741.28607"
            y="-419.77151"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">back</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">back</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -2189,7 +2256,7 @@
            id="tspan3678"
            x="596.67181"
            y="-447.51025"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">hinge</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">hinge</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:0%;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2209,7 +2276,7 @@
        inkscape:groupmode="layer"
        id="g3472"
        inkscape:label="book image dot"
-       style="display:none">
+       style="display:inline">
       <circle
          id="circle3470"
          style="display:inline;mix-blend-mode:normal;fill:#000000;stroke:none;stroke-width:0.264583"
@@ -2315,22 +2382,6 @@
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.501925;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m 421.7003,402.01646 v 6 h -290 v -6 z"
          sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png" />
-      <path
-         id="path2183"
-         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 144.7,213.01644 h 3.99998 v 27.99999 l 2,3 H 142.7 l 2,-3 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png" />
-      <path
-         id="path3181"
-         style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 408.7,213.01644 h -4 v 28 l -2,3 h 8 l -2,-3 z"
-         sodipodi:nodetypes="ccccccc"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
          inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png" />
@@ -2646,38 +2697,6 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccc" />
       </g>
-      <path
-         id="path38444"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 48.80068,516.337 h 4 l 1e-5,-60.9997 1.99995,-3 H 46.8007 l 1.99996,3 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path38446"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 139.80067,516.337 h 4.00001 l 1e-5,-60.9997 1.99995,-3 h -7.99995 l 1.99996,3 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path38448"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 409.80068,516.337 h 4.00001 l 1e-5,-60.9997 1.99995,-3 h -7.99995 l 1.99996,3 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
-      <path
-         id="path38450"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 500.80068,516.337 h 4.00001 l 1e-5,-60.9997 1.99995,-3 h -7.99995 l 1.99996,3 z"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
-         inkscape:export-xdpi="28.075163"
-         inkscape:export-ydpi="28.075163" />
       <path
          d="m 156.8003,486.337 -1e-5,-15 h 240 v 15 z"
          id="path3403"
@@ -3830,7 +3849,7 @@
            id="tspan5090"
            x="322.28607"
            y="141.22847"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">front</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">front</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.15;font-family:sans-serif;text-align:start;letter-spacing:-0.264583px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -3844,22 +3863,22 @@
            sodipodi:role="line"
            x="45.18021"
            y="-342.39496"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;text-anchor:start;stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;text-anchor:start;stroke-width:0.282222"
            id="tspan2395">toilet</tspan><tspan
            sodipodi:role="line"
            x="45.18021"
            y="-316.43048"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.282222"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.282222"
            id="tspan516">plan</tspan><tspan
            sodipodi:role="line"
            x="45.18021"
            y="-290.466"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.282222"
            id="tspan106255">520 x 600 x 429</tspan><tspan
            sodipodi:role="line"
            x="45.18021"
            y="-264.50156"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:0.282222"
            id="tspan28894">wood, plastic</tspan></text>
       <text
          xml:space="preserve"
@@ -3902,7 +3921,7 @@
            id="tspan1321"
            x="425.28323"
            y="-21.844177"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">platform</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">platform</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -3916,7 +3935,7 @@
            id="tspan1329"
            x="425.2832"
            y="230.15564"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">platform</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">platform</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -3931,7 +3950,7 @@
            id="tspan1333"
            x="-389.1073"
            y="533.44659"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">leg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">leg</tspan></text>
       <text
          id="text364"
          y="270.45239"
@@ -3955,7 +3974,7 @@
          id="text594"
          y="376.73767"
          x="350.7854"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
@@ -4009,7 +4028,7 @@
            id="tspan1325"
            x="-122.10728"
            y="534.85571"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">leg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">leg</tspan></text>
       <text
          id="text4426"
          y="362.65485"
@@ -4023,7 +4042,7 @@
            x="60.00235"
            id="tspan4428"
            sodipodi:role="line"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';stroke-width:0.282222">front elevation</tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Trebuchet MS Italic';stroke-width:0.282222">front elevation</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:0%;font-family:sans-serif;letter-spacing:-1.5875px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4054,7 +4073,7 @@
            id="tspan1349"
            x="433.28604"
            y="289.58539"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">front</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">front</tspan></text>
       <text
          id="text370"
          y="491.45239"
@@ -4082,7 +4101,7 @@
            id="tspan1345"
            x="386.28317"
            y="260.15564"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">rail</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">rail</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:84%;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4217,7 +4236,7 @@
          id="text1873"
          y="513.95264"
          x="106.45383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"
          inkscape:export-xdpi="28.075163"
@@ -4316,16 +4335,16 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:0%;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-239.50067"
-         y="147.40552"
+         x="-245.50067"
+         y="138.40552"
          id="text42000"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
          transform="rotate(-90)"
          inkscape:export-filename="/home/hill/Write/darkness/swimmingly.github.io/img/plan/image/toilet.png"><tspan
            sodipodi:role="line"
-           x="-239.50067"
-           y="147.40552"
+           x="-245.50067"
+           y="138.40552"
            style="font-size:14.1111px;line-height:90%;letter-spacing:-0.264583px;word-spacing:-0.529167px;fill:#000000;fill-opacity:1;stroke-width:0.282222px"
            id="tspan41998">6</tspan></text>
       <text
@@ -4333,7 +4352,7 @@
          id="text44452"
          y="557.22955"
          x="116.45383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
@@ -4370,7 +4389,7 @@
            id="tspan58682"
            x="261.2832"
            y="18.155823"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">tub</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">tub</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -4385,7 +4404,7 @@
            id="tspan58686"
            x="-26.599339"
            y="414.15573"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">rail</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">rail</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -4413,13 +4432,13 @@
            id="tspan160091"
            x="322.28607"
            y="-419.77151"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">back</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">back</tspan></text>
       <text
          transform="rotate(-90)"
          id="text107583"
          y="557.22955"
          x="-448.54617"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="28.075163"
          inkscape:export-ydpi="28.075163"
@@ -4443,7 +4462,7 @@
            id="tspan2333"
            x="-42.107277"
            y="12.155737"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">brace</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">brace</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -4458,7 +4477,7 @@
            id="tspan2829"
            x="-375.1073"
            y="11.155737"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">brace</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">brace</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:68%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4496,13 +4515,13 @@
            id="tspan13915"
            x="58.286072"
            y="-418.77151"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">hinge</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222">hinge</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="book image dot"
-       style="display:none">
+       style="display:inline">
       <circle
          id="path3386"
          style="display:inline;mix-blend-mode:normal;fill:#000000;stroke:none;stroke-width:0.264583"
@@ -5152,7 +5171,7 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          x="927.45477"
          y="186.77632"
          id="text802"
@@ -5161,7 +5180,7 @@
            sodipodi:role="line"
            x="927.45477"
            y="186.77632"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90222px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222"
            id="tspan800"> </tspan></text>
       <text
          id="text822"

@@ -10,13 +10,12 @@ This is a collection of my other, mostly earlier, writings. They began appearing
 
 It also contains:
 
-- newer writings not part of my book
+- newer writings not in my book
 - writings of others
 
-~~
+### Intro
 
 For 21 years, I have combed the edges of philosophy, health, and design for clues to a sane way to live. Here I describe some of my findings. 
-
 
 ### Philosophy
 
@@ -52,7 +51,8 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 
 - general
 	- [Bibliography](./bibliography) five cranial supernovas + honorable mentions
-	- [Aphorisms](./aphorisms): sayings relevant to darkness <span id=new>NEW</span>
+	- [Aphorisms](./aphorisms): sayings especially relevant to the restful use of darkness <span id=new>NEW</span>
+	- [Jean's Little Rules](/f/rules): Jean Liedloff's rules for parents <span id=new>NEW</span>
 - health
 	- [Laws](/f/laws) hygiene's Laws of Life
 	- [Virus](/f/virus) by Klein & Sniadach: the apotheosis of germ theory, medicine's favorite hoax <span id=new>NEW</span>

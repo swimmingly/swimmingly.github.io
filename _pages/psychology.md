@@ -189,7 +189,7 @@ Gaining confidence in this capacity takes time. Meanwhile, there are ways to eas
 
 What trauma? I mean the routine brutality of our lifeway. It touches virtually everyone from before birth. I mean not just the bad things we condemn (like child abuse), but bad things we praise. I mean our many offenses to nature. It already worked out every detail of a happy existence from the beginning of time. In our pathological lifeway, we transgress them continually.
 
-I'm going to list common examples of the plague of polite violence I refer to. One of my editors, a wise and loving man, warned me I would lose readers by doing so. But I see no way around it. The affronts and crimes must be named.
+I'm going to list common examples of the plague of violence I refer to. One of my editors, a wise and loving man, warned me I would lose readers by doing so. But I see no way around it. The affronts and crimes must be named.
 
 - unintentional conception and ambivalent pregnancy
 - birth intruders (doctor, midwife, priest)
@@ -202,16 +202,16 @@ I'm going to list common examples of the plague of polite violence I refer to. O
 - cribs, playpens, strollers (the worst designs of all time, which crystallize alienation in the nervous systems of billions.)
 - television and computers (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty if used at critical phases of development.[^3])
 - factory food (starting with genetic modification, chemical farming, unripe harvesting, irradiation) 
-- insincerity, negative emotion, and irrationality from others
+- insincerity, negative emotion, and irrationality from elders
 - and finally, the last nail so big it splinters the coffin: _school_
 
-The violence of job, military, hospital, the street, and prison go without saying. These things are even worse when they happen to infants, who have a millionth the capacity to endure them.
+As adults, rough encounters in jobs, military, hospital, street, and prison refresh everyone's post-traumatic stress disorder. The underestimated crime of pollution—noise, vibration, fumes, light, electromagnetism, and in food—disrupt rest even when one seeks it.
 
-You may already have some idea of exactly what brutalized _you_. I invite you to find out for sure in darkness. There you have a real chance to recover from it once and for all. Between retreats, the depth psychologists mentioned below can help provide words for what you are going through.
+You may already have some idea of exactly what brutalized _you_. I invite you to find out for sure in darkness. There you have a real chance to recover from it once and for all. Between retreats, the depth psychologists mentioned below provide more words for what you are going through.
 
-Let's finally get it through our numb skulls: no adult can get brutalized day in and day out for years without being affected. How much worse is it for an infant? We are not indestructible. We are vulnerable to injury. This is not a flaw. It is the conditional nature of organic existence. It defines life and makes our spectacular adaptability and joy possible. 
+Let's finally get it through our numb skulls: no adult can get brutalized day in and day out for years without being affected. Infants take it a thousand times worse. We are not indestructible. The conditional nature of organic existence makes us vulnerable to injury. This is not a flaw. It defines life and makes our spectacular adaptability and joy possible. 
 
-Personal failure originates in psychophysical malfunction from deep damage. We cover up this unpleasant fact by moralizing about weakness, cowardice, inability. Or we shrug it off mystically as bad luck. Chronic failure is not our fault but the result of disaster. We are not weak or bad. We are hurt. We don't need to work harder. We need time to rest so we can heal. We need to recover the capacity to succeed. I suggest we take a mass leave of absence from our absurd existence and find comfortable places to collapse. We'll do it in shifts.
+Personal failure originates in psychophysical malfunction from deep damage. We cover up this unpleasant fact by moralizing about weakness, cowardice, inability. Chronic failure is not anyone's fault but the result of disaster. We are not weak or bad. We are hurt. We don't need to work harder. We need time to rest so we can heal. We need to recover the capacity to succeed. We need leaves of absence and comfortable places to collapse awhile.
 
 Damage from major psychic trauma is real. It is deep. It persists through generations until it heals.[^4] Meanwhile, it disrupts everything else in our lives: memory, reliability, conscientiousness, poise, digestion, sleep, circulation, coordination, humor, desire, clarity, etc. Everything. The mounting disaster motivates us to take it seriously. We can heal from it. We just need basic, decent conditions in which to do so.
 
@@ -360,11 +360,11 @@ Such a disaster causes psychic trauma and malfunction in nearly everyone. Mass p
 
 In this barren hell, where can people find comfort? In each others' arms, of course. Willed birth control, common among indigenous people, is lost with many other subtle capacities. Babies start arriving randomly. Cataclysmic trauma starts its terrible transmission through the generations. 
 
-Trauma changes form but keeps its intensity. Society rearranges itself into civilization to absorb the cosmic blow. In some ways, it becomes (psycho)pathocratic. In others, it finds less harmful ways to distribute the shock. Complex trauma results. As horrible as it is, it is still better than would otherwise be the case. When pressure builds up, we make a war or other artificial disaster.
+Trauma changes form but keeps its intensity. Society rearranges itself into civilization to absorb the cosmic blow. In some ways, it becomes (psycho)pathocratic. In others, it finds less harmful ways to distribute the shock. Complex trauma results. As horrible as it is, it is still better than would otherwise be the case. When pressure builds up, we relieve it with an artificial disaster like war.
 
 Technology compensates for lost capacity. Quietly, life keeps generating seekers to find out the truth of what is happening. Clue by clue, understanding is assembled over hundreds of generations. At last, the truth dawns.
 
-What if we are the butt of a bad cosmic joke? If so, then our wars, big and small, are pointless. No one started the root conflict. No one need be punished. Everyone is essentially innocent. Everyone is free to walk away and heal. 
+What if this madness is just a cosmic joke? If so, then our wars, big and small, are pointless. No one started the root conflict. No one need be punished. Everyone is essentially innocent. Anyone is free to walk away and heal, to show the way home.
 
 Trauma from such a large-scale event is unavoidable. It is natural. Trying to prevent it is futile. Hope lies in having a way to recover from it.[^8][^9]
 

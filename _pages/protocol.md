@@ -322,7 +322,7 @@ Like any capacity, personal power suffers significant damage from trauma. The ro
 
 Resting profoundly in darkness, one's power is restored. These symptoms of mass psychopathology disappear. One begins to feel and act virtuously without trying or even thinking of it. Life works again on a personal scale. 
 
-On a social scale, such power is irresistible by conventional force. Martin Luther King, Jr and Mohandas Gandhi showed this. From their words and my glimpses in darkness, their demonstrations pale before the potential of a fully restored man. Our distressed world, kings and peasants alike, awaits such people. Once the dam breaks, 10,000 years of suffering will wash away overnight. This is what I saw when I first dreamt of hygienic dark retreating. This is my prayer.
+On a social scale, such power is irresistible by conventional force. Heroes and saints throughout history have shown this. From their words and my glimpses in darkness, their demonstrations pale before the potential of a fully restored man. Our distressed world, kings and peasants alike, awaits such people. Once the dam breaks, 10,000 years of suffering will wash away overnight. This is what I saw when I first dreamt of hygienic dark retreating. This is my prayer.
 
 ### difficulty
 

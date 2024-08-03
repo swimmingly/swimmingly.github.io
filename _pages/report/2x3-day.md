@@ -36,11 +36,11 @@ But Mother also loved me. Fiercely. Desperately. So like Rhea's saving of her ch
 
 Consequently, I have rarely felt confident about romance, only short-lived bravado. Love has almost always made me feel like I was dying. I developed myriad ways of avoiding women I liked. I destroyed things with those who somehow got close. I have watched myself in horror laugh after successfully avoiding or sabotaging a woman's interest in me. Afterward I would pay with anguish when it was too late to get her back and I realized my mistake. But the main goal was accomplished: I was safe. And I could continue racing to find a way to recover from the program.
 
-Why race? Because such programs are powerful things. As I aged, thoughts of death increasingly plagued me. The weight of 25 years of romantic failure was becoming a sufficient motive to suicide in itself. Sixteen months before, I had finally gotten a clear idea of how I would accomplish it. This was part of a serious [breakdown](https://andrewdurham.com/blog/2011/12/breakdown/). I was only saved by knowing I had found, in darkness, a possible way to recover.
+Why race? Because such programs are powerful things. As I aged, thoughts of death increasingly plagued me. The weight of 25 years of romantic failure was becoming a sufficient motive to suicide in itself. Sixteen months before, I had finally gotten a clear idea of how I would accomplish it. This was part of a serious [breakdown](https://andrewdurham.com/blog/2011/12/breakdown/). I was only saved by knowing I had, in darkness, a possible way to recover.
 
-For years I resented my mother's treatment of me. Mommie Dearest. Why would she admit her errors in only general terms? Maybe it was because what I resented her for was precisely what had saved me from an even more terrible fate.
+For years I resented my mother's treatment of me. Mommie Dearest. Why would she only admit her errors in vague terms? I suppose she probably knew on some level that what I resented her for was precisely what had saved me from an even more terrible fate.
 
-I am rewriting this report after six months. This part of my mother's behavior did not come clear to me till now. Apparently, I first had to spend some time acting on the other result of the retreat: a newfound ability to take care of myself (described below in "aftermath").
+I am rewriting this report after six months. This part of my mother's behavior did not come clear to me till now. Apparently, I first had to spend some time acting on the other result of the retreat: a newfound ability to take care of myself (more in "aftermath").
 
 Like my last retreat, when I began this one, I felt sure I was too hopeless to recover, even in darkness. My attitude was like this: “It can't work this time. I'm too far gone. How is it possible? But what else is there to do?” Then, as if I were talking to the process itself: “I dare you to work. You cannot depend on my belief this time to work. You just have to work no matter what I think or feel.”
 
@@ -58,13 +58,15 @@ The room worked much better this time. I made mutes for radiators that were ring
 
 I finally realized the problem with our energy recovery ventilator. The fan motors are integrated with the blades. They are in the airstream, so there is no way to insulate against their noise. The muffler, a box with a pillow in it that the air has to pass through, reduces noise 30%. But the hum and whine of the motors still pierces everything after a couple days of attuning one's hearing in darkness. A proper fan set-up would be larger low-RPM fans outside the building driven by an external motor in its own sound-insulated compartment. 
 
-Projects, projects. Sigh. [COMMENT: I since learned to make proper [silencers](/air#silencer). And I prototyped a fan like this. It is promising for large spaces, unnecessary for single-occupancy darkrooms. [200mm case fans](/air#fan-mount) are enough.]
+[EDIT: I have since learned to make proper [silencers](/air#silencer).
+
+Projects, projects. Sigh. And I prototyped a fan like this. It is promising for large spaces, unnecessary for single-occupancy darkrooms. [EDIT: 200mm case fans](/air#fan-mount) are enough.]
 
 I used the mask to walk to the kitchen and bathroom. I even made a smoothie while blindfolded. The pee bottle worked like a charm. Sight can be a crutch.
 
 ![photo: pee bottle](/img/photo/pee-bottle.jpg) 
 
-The hose vents the smell. The funnel pipe seals in a hole in the cap and runs to the bottom of the bottle.
+The hose vents the smell. The funnel pipe seals at a hole in the cap and runs to the bottom of the bottle.
 
 Today, a guy told me about a WWII bunker in his hometown that he explored. It is big, with offices, bedrooms, equipment rooms, gunning rooms, etc. It is perfectly silent two floors down, about 5m underground. The whole room became like a big seashell to his ears. He started freaking out from it and had to snap his fingers to make his hearing work normally.
 
