@@ -1,16 +1,16 @@
 ---
 title: individualism
 layout: page
-navprev: nothing
+navprev: free
 permalink: /other/individualism/
-navnext: free 
+navnext: sanity 
 ---
 
 ### notes toward an individualist form of government
 
-These notes are semi-organized. But they are enough to begin thinking along new lines.
+These notes are only semi-organized. But they are enough to begin thinking along new lines.
 
-First, please read [individualism](/blog/2022/08/individualism/), a short piece from my blog. It links to [scene: freedom](/blog/2020/11/scene-freedom/), which links back here.
+You may first want to read [individualism](/blog/2022/08/individualism/), a short blog post. It links to [scene: freedom](/blog/2020/11/scene-freedom/), which links back here.
 
 #### immutable
 
@@ -24,18 +24,18 @@ A state could be the centralized, monopolizing, elitist beast we are used to. Or
 
 ### individualist distributed hyperstate
 
-This is a state that is:
+An individualist distributed hyperstate is a state that is:
 
 - based on individualist principles (the precepts, which assert the rights of man)
-- undertaken and operated by all individuals throughout the population
+- undertaken and operated by all willing individuals throughout the population
 - of maximum size in terms of 
 	- number of participants
 	- comprehensiveness of laws (through contracts)
-	- amount of power held and degree of control exercised, but by individuals over their own affairs 
+	- amount of power held and degree of control exercised—by individuals over their own affairs 
 
-Individualism sets the operational context of the society. The rights of man to life, liberty, and property and the corollary maxims of law will become common sense again. Little children understand, apply, and uphold them. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
+Individualism sets the operational context of the society. The rights of man to life, liberty, and property and the corollary maxims of law are common sense again. Even little boys and girls understand, apply, and uphold them. Everyone is legally aligned with his self-preserving nature as an organism, so he can stop contorting himself mentally, emotionally, and physically as well.
 
-Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a lawmaker, policeman, soldier, and judge. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines otherwise.
+Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a lawmaker, peacekeeper, and judge. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines that it is someone else's job.
 
 Maximization prevents the power vacuums that evil exploits. Like a beating heart when one is cut, it generates positive outward pressure that prevents contaminants from entering.
 
@@ -71,24 +71,27 @@ Life, liberty, and property are rights because they are right. They are right be
 
 Every life is an end in itself, not the means to any other end. He exists for his own sake. His existence is the justification of his actions. His existence is not justified by any benefit it affords others.
 
+Powerless people who proclaim their rights will get zero regard from the masses, let alone from agents of the system. Power can't be faked. It's time to get real.
+
 ### so much for voting and representation (democracy and republics)
 
-Voting is a nauseating exercise. People like it as much as paying taxes. They only vote because they are desperate.
+Voting is a nauseating exercise. People like it as much as paying taxes. They only vote because they are desperate. 
+
 They don't know what else they can do. The whole business of elections and referendums is disgusting. They don't want to be involved. They are relieved to turn it over to the cockroaches who seem to enjoy it, then be done with it for another year or two.
 
-An individualist party would finally turn abstention into a meaningful choice. It would delegitimize the establishment, imploding it. Collective _inaction_ is the instinct of everyone with a shred of decency. A distributed state weaponizes  decency against the source of corruption: mass delegation of power to a central body (legislature, executive, judiciary)
+An individualist party would finally turn abstention into a meaningful choice. It would delegitimize the establishment, imploding it. Collective _inaction_ is the instinct of everyone with a shred of decency. A distributed state weaponizes decency against the source of corruption: mass delegation of power to a central body (legislature, executive, judiciary).
 
-Members of central bodies abuse power, just as the masses deserve. The people have given up the most precious thing they had: their personal, living power to lead their own lives, their say-so over their own lives. So centralized politicians start using them for their own purposes. Why would they do otherwise? The people proved themselves unworthy of more.
+Members of central bodies abuse power, just as the masses deserve. The people have given up the most precious thing they had: their personal, living power to lead their own lives, their say-so over their own existences. So centralized politicians start using them for their own purposes. Why would they do otherwise? The people proved themselves unworthy of more. They begged for slavery, so why not give it to them?
 
-All the natural human qualities democracy condemns as civic sin become the virtues of a free state: apathy, inertia, self-interest, "selfishness" (!), short-term thinking, 
+All the natural human qualities democracy condemns as civic sin become the virtues of a free state: apathy, inertia, selfishness.
 
-Data mining and individualized micro-targeting of political ads (watch _Brexit: The Uncivil War_) is _made_ for individualism and a distributed state. Everyone gripes about some state control or another. The party will rub that nerve raw in everyone. There will be an exodus, a permanent, general strike against central government (A la, the Velvet Revolution in Czech Republic, Atlas Shrugged, and in the movie, "La Belle Verte", the brief history the youths share at 1:07:30. 
+Data mining and individualized micro-targeting of political ads (watch _Brexit: The Uncivil War_) is _made_ for individualism and a distributed state. Everyone gripes about some state control or another. The party will rub that nerve raw in everyone. There will be an exodus, a permanent, general strike against central government (A la, the Velvet Revolution in Czech Republic, Atlas Shrugged, and in the brilliant movie, "La Belle Verte", in the brief history the youths share at 1:07:30 and a few mentions throughout.
 
 Individualism would likely win a first battle. But without proper preparation (several individuals restored to sufficient power) the collectivists' strike back could recapture the people more deeply than before with new levels of fear.
 
 ### current powers
 
-More important than voting is jury nullification of unjust laws. But this  has been suppressed by centralized courts. 
+More important than voting is jury nullification of unjust laws. But this has been suppressed by centralized courts. 
 
 Far more important is the prosecution of suits in court. Common people can do this without lawyers. Dr Frederick Graves has proven this with his law course, [jurisdictionary](https://howtowinincourt.com?refercode=DA0054). This knowledge and skill is useful both before and after the emergence of an individualist government.
 
@@ -96,7 +99,7 @@ Of course, the will to self-defense and the skills necessary are important at al
 
 ### tragedy
 
-American individualism never had a party or form of government to match it. The Revolutionaries assumed a state meant a centralized state. This meant representation, voting, and controversy. This lead to secrecy, corruption, injustice, salvation, and reform. It is all a pointless drama in which everyone is dragged along in everyone else's demands and sacrifices. It is the primary racket: traumatize people into powerlessness, then offer them protection. Surrender power, bargain for some of it back.
+American individualism never had a party or form of government to match it. The Founders assumed a state meant a centralized state. This meant representation, voting, and controversy. This lead to secrecy, corruption, injustice, salvation, and reform. It is all a pointless drama in which everyone is dragged along in everyone else's demands and sacrifices. It is the primary racket: traumatize people into powerlessness, then offer them protection. Surrender power, bargain for some of it back.
 
 No. It is my power to begin with. I say what happens with it. I retain it in my cell of the distributed state. The party is just a restorative force. It calls people back to psycho-political health and trains them in ruling their own lives.
 
@@ -114,7 +117,7 @@ Also, by viewing everything as a militarily strategic resource, the security age
 
 Now many people can barely tie their shoes. Polluters call in favors, and manufacturers use limited liability to get away with murder.
 
-In the distributed state, responsibility for personal safety will be returned to the hands of individuals. Those so inept that they can't survive in the sandbox of industrial culture will continue eliminating themselves from the gene pool, as they do everyday in droves. Just read a table on all causes of death.
+In the distributed state, responsibility for personal safety will be returned to the hands of individuals. Those so inept that they can't survive in the sandbox of industrial culture will continue eliminating themselves from the gene pool, as they do everyday in droves anyway. Just read a table on all causes of death.
 
 ### function
 
@@ -130,15 +133,15 @@ Here are the history and workings of a distributed state.
 8. Damages are made up for with money, not punishment.
 9. Recognition of the rights of everyone, including children; and liberation of all rightful activity, including the slow suicide of decadence and dissipation, restores natural incentives. Crime stops paying. Rather than the state, crime will wither away.
 
-_The Market for Liberty_ by the Tannehills explains this in detail. They show the intriguing role of insurance companies in funding and organizing most state functions, including armies and weapons of mass destruction. The cost of governance can down to normal rates of profitability of business.
+_The Market for Liberty_ by Morris and Linda Tannehill explains this in detail. They show the intriguing role of insurance companies in funding and organizing most state functions, including armies and weapons of mass destruction. The cost of governance can go down to match normal rates of profitability of business.
 
-The Tannehills only err in saying that non-centralized provision of governance services implies the absence of a government or state. No, it just means the state is distributed among the entire population. _The Moon is a Harsh Mistress_ by Robert Heinlein and _Atlas Shrugged_ by Ayn Rand (especially part 3, chapters 1-2) show this in action.
+The Tannehills like the anarcho-capitalists who taught and published them, only err in saying that non-centralized provision of governance services implies the absence of a government or state. No, it just means the state is distributed among the entire population. _The Moon is a Harsh Mistress_ by Robert Heinlein and _Atlas Shrugged_ by Ayn Rand (especially part 3, chapters 1-2) show this in action.
 
-Ayn Rand erred with everyone else in assuming a state means a _centralized_ state. Its monopoly on the rightful use of force follows, and she affirmed it. But distribution renders the issue moot.
+Ayn Rand erred with everyone else in assuming a state means a _centralized_ state. Its monopoly on the rightful use of force follows, and she affirmed it. Distribution renders the issue moot.
 
 But she was fundamentally right in asserting the political nature of man, thus his need for a state and for lawful control of its use of force. Man possesses the faculty of choice. He can err dangerously or do evil. He needs guiding principles. Occasionally, he must be stopped by force.
 
-To deny what a thing is is to deny _that_ it is. Its destruction follows logically. To deny man's political nature is to deny his life. To deny the state logically requires force. It disarms everyone and leads to totalitarian dictatorship. Note that an individual is still in control. But not of himself. Of everyone.
+To deny what a thing is is to deny _that_ it is. Its destruction logically follows. To deny man's political nature is to deny his life. To deny the state, an ineradicable fact of human society logically requires politically motivated force, ie, state action. It disarms everyone and results in totalitarian dictatorship. Note that an individual is still in control. But not of himself. Of everyone.
 
 Thus every collectivist movement has an anarchist vanguard. Every collectivist regime comes to power using anarchy: destruction of the last of the existing state (which was eroded through a generations-long campaign of ideological subversion). This leads to even more death. Good politics should improve things from the first moment, not make them worse.
 
@@ -161,18 +164,17 @@ _Lifeforce_ eclipses even truthforce, Gandhi's disciplined simulation. He used i
 		- be
 		- move
 		- get
-	- therefore these things are right
-	- therefore these things are rights
+	- therefore these things are right, therefore these things are rights
 	- list of rights {crimes violating them are in curly braces}
-	- Life: body
-		- {poisoning*, assault, battery, maiming, murder} 
-		- {*usually pollution: noise, material (plasma, gas, liquid, solid), light, electromagnetism. Sensible, at least to some, and in those cases, detectable by anyone with instruments.}
-	- Liberty: motility
-		- {obstruction, capture}
-		- {harassment: unwelcome contact with someone in place}
-	- Property: possessions 
-		- originates by "mixing one's efforts" with natural materials
-		- {vandalism, fraud, theft}
+		- Life: body
+			- {poisoning*, assault, battery, maiming, murder} 
+			- {*usually pollution: noise, material (plasma, gas, liquid, solid), light, electromagnetism. Sensible, at least to some, and in those cases, detectable by anyone with instruments.}
+		- Liberty: motility
+			- {obstruction, capture}
+			- {harassment: unwelcome contact with someone in place}
+		- Property: possessions 
+			- originates by "mixing one's efforts" with natural materials
+			- {vandalism, fraud, theft}
 
 - Party
 	- membership by self-identification and natural acceptance by others
@@ -225,9 +227,9 @@ Individualism is based on the ethics of selfism, the epistemology of reason, and
 
 Collectivism mystically views society as the moral agent. It views an individual as provisional, or illusory, or as a mere cell in the larger "whole" of society. The individual has no will, no rights. The life, motility, and possessions loosely associated with him belong to the state. 
 
-This is all a lie. There is no collective entity. One cannot live for others. So it is a denial of what is. It does not uphold the collective. It denies and violates the rights of the individual. It does not help others. It gets people to deny and destroy themselves.
+This is all a lie. There is no collective entity. One cannot live for others. So it is a denial of what is. It does not uphold a non-existent collective. It denies and violates the rights of the individual. It does not help others. It gets people to deny and destroy themselves.
 
-The Vatican has operated by Satanic power through the Jesuits and nobility of Europe; communism in Russia and China; fascism in Germany, Italy, and Japan; and Islam in the Middle East. This amounts to a billion murdered in cold blood over two millennia. Not to mention the murders by civilizations from the East and from before Christ.
+The Vatican has operated by Satanic power through the Jesuits and nobility of Europe; communism in Russia and China; fascism in Germany, Italy, and Japan; and Islam in its territories. This amounts to a billion murdered in cold blood over two millennia. Not to mention the murders by civilizations from the East and from before Christ.
 
 #### deception
 
@@ -236,37 +238,72 @@ Collectivism is a lie. So it is advanced by denials and stealth. You know you're
 - real communism never happened
 - communism is a myth
 - communists don't exist
+- I'm non-political and post-ideological (the current fashion among middle-of-the-road useful idiots)
 
 Collectivism has to be advanced in secret, by deception. Observe the:
 
-- self-sacrificing ("charitable") ethics and centralizing politics of secret societies
+- self-sacrificing ethics and centralizing politics of secret societies
 - closed-door sessions of special committees
 - black-book projects of military and industry
-- blackmail that participants operate under (Epstein)
+- blackmail that participants operate under (Epstein, Diddy)
 
-Individualism, by contrast, wins in the open, by proud assertion of right, and transparent action. It takes very little of this to reverse a collectivist tide. Let's get cracking. 
+Individualism, by contrast, wins in the open, by proud assertion of rights, and transparent action. It takes very little of this to reverse a collectivist tide. Let's get cracking. 
 
 ### discontinue
 
 Many things now taken for granted as public functions will cease to be administered by the state. Some will be discontinued and dispersed. It will fall to individuals and organizations to handle them or disperse them.
 
-- Laws of Enclosure: this system of enslavement will stop. Unused land will be considered unowned land. Anyone can claim it by "mixing his efforts" with it. This is how John Locke described the process of turning something in nature into property.
+- Laws of Enclosure: this system of enslavement will stop. Unused land will be considered unowned land. Anyone can claim it by "mixing his efforts" with it. This is how John Locke described the process of turning a part of nature into property.
 - State-issued money 
-- Safety regulations: Security is the concern of the state, not safety. Security means ensuring harmlessness among criminals. Safety means ensuring harmlessness among non-criminals. This is a critical distinction lost on us for decades.
-- Post offices, roads, schools, hospitals, etc: obvious collectivist nonsense. Yes, every enterprise has an aspect of security. It doesn't mean it has to be taken over by a centralized state.
+- Safety regulations: Security is the concern of the state, not safety. Security means providing protection from criminals. Safety means protection from physical harm among non-criminals. This is a critical distinction lost on us for decades.
+- Post offices, roads, schools, hospitals, etc: obvious collectivist nonsense. Yes, every enterprise has an aspect of security. It doesn't mean it has to be administered by a centralized state.
 - The "positive state" is a contradiction in terms. The state is inherently negative and destructive. It exists to stop evil, not to create good. That is the job of business and normal (voluntary, non-criminal) society. 
-- Many other things. All the pork, handouts, privileges, protections, and exceptions. Something to offend everyone, no doubt. Freedom is not daisies and sunshine, folks.
+- Many other things. All the pork, handouts, privileges, protections, and exceptions. Something to offend everyone, no doubt. Freedom is not daisies and sunshine, folks. It is stark, terrifying, glorious responsibility.
 
 ### comments
 
-America is not the land of the free. Freedom here is not guaranteed or handed to anyone. It is merely the land of the opportunity for freedom, if one knows how to claim it, to exercise one's rights. This is increasingly rare. The system has taken over the raising of children and brainwashes them against self-reliance. But the opportunity still exists for those who will curb their complaints enough to take the action necessary to claim their birthright.
+America is not the land of the free. Freedom here is not guaranteed or handed to anyone. It is merely the land of the opportunity for freedom, if one knows how to claim it and to exercise one's rights. This is increasingly rare. The system has taken over the raising of children and brainwashes them against self-reliance. But the opportunity still exists for those who will curb their complaints enough to take the action necessary to claim their birthright.
 
-Thus the distributed system I described exists implicitly in America already, and will as long as the constitution stands. Some people are quietly and firmly managing their own affairs. They interrupt state proceedings when such get out of hand, and gently neutralize them with the principle of _conditional acceptance_. "Sure, I'll do that as long as you can show me a contract with my signature on it in which I agreed to do that."
+Thus the distributed system I described exists implicitly in America already, and will as long as the constitution stands. Some people are quietly and firmly managing their own affairs. They interrupt state proceedings when such get out of hand, and gently neutralize them with the principle of _conditional acceptance_. "Sure, I'll do that as long as you can show me where I agreed to it in writing."
 
-This is taught by TJ Marrs of [youarelaw.org](https://youarelaw.org) and many others now. I started hearing it from dad, from our immovable grandelder, Jack Nuckols, and then my counsel, the late legal genius, DeWaynn Rogers. Its strains are embedded in the American tradition. You can still hear them if you listen. It is not too late to avoid another cycle of collectivist catastrophe, now devolved from its centers and chomping at the bit in disaster zones like San Francisco and Portland.
+Conditional acceptance is taught by TJ Marrs of [youarelaw.org](https://youarelaw.org) and many others now. I started hearing it from my dad, from our immovable grandelder, Jack Nuckols, and then my counsel, the late legal genius, DeWaynn Rogers. Its strains are embedded in the American tradition. You can still hear them if you listen. The collectivist catastrophe has now devolved from its Satanic temples into think tanks, the academy, the arts, journalism, and civil service. It is chomping at the bit in disaster zones like San Francisco and Portland. But we are not too late to avoid another widespread cycle of it.
 
-<!--
-### more
+### autonomous infrastructure
 
-Here are all my blog posts about politics: -->
+Centralized infrastructure requires a centralized state. As long as people depend on such infrastructure, they will not be allowed to opt out of it by those who coordinate and guard it. Vinay Gupta explains this in his talk, "Infrastructure for Anarchists". Listen and weep.
 
+Infrastructure is centralized to maintain control over the population of us slaves. Freedom requires of anyone who wants it to begin making his infrastructure autonomous. Autonomous means not just off-grid, but simple, minimal, cheap, durable, maintainable. It is way beyond the expensive, complicated solar and wind installations that most suppliers want to sell.
+
+Gupta embodies autonomous infrastructure positively with the [Hexayurt Project](https://hexayurt.com). He sets the stage for us. His story, "The Unpluggers" about people who bail on our high-cost lifestyle is interesting.
+
+[Low-tech Magazine](https://lowtechmagazine.com) by lifelong tech journalist, Kris de Decker, exposes the impossibility of a high-tech sustainable society. He unearths old technologies for modern application (or instructiveness). He provides low-tech solutions to go off-grid, even in rented apartments in cities. He's funny, contrarian, and very creative (and sadly, a communist). One of the best sites on the web.
+
+[Living Energy Farm](https://livingenergyfarm.org) uses direct solar power (no controllers or batteries) in most of its systems. 
+
+My [designs](/other#design) and the last 5 chapters of my [book](/) demonstrate the same subversive attitude to high-tech: using new technology for purposes simpler than intended, or new methods to revive obsolete technology—or injured, atrophied living tissue.
+
+This is part of the "low-tech approach" to design. The other part is reducing demand to match easily provided supply rather than expensive, tricky renewable supply to the peak energy demand predicated on cheap oil. One uses less energy to get better results by _all_ metrics (elegance, efficiency, serviceability, quality of life, etc), not just the more-is-better monometrics of conventional economics (income, GDP, standard of living, etc).
+
+### strategy
+
+We are trapped in the system by belief, powerlessness, and physical dependency on its infrastructure. So our strategy to recover freedom consists of:
+
+1. study to understand how and why we are enslaved and how and why freedom works
+2. healing to become healthy and powerful enough to be free
+3. infrastructural autonomy
+
+Jobs, school, medicine, art, media, and high-technology keep us deluded and sick. Infrastructure includes shelter, heating, water, food, waste, energy, transportation. Practical replacements exist for all these.
+
+Every part of the strategy proves rational and thrilling: the way life really is and ought to be all the time. We invite you to turn away from the boring insanity of enslavement, find your true friends, and live.
+
+
+### further
+
+Here are my political blog posts:
+
+[individualism](/blog/2022/08/individualism/)
+[scene: freedom](/blog/2020/11/scene-freedom/)
+[freedom through darkness](/blog/2019/11/freedom-through-darkness/)
+[surpassing john galt](/blog/2019/11/surpassing-john-galt)
+[proposal: freedom](/blog/2020/11/proposal-freedom/)
+[politics: distributed and centralized](/blog/2022/12/politics-distributed-centralized/)
