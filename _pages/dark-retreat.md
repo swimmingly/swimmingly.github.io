@@ -11,7 +11,7 @@ Now we will apply the theory of hygiene to the practice of dark retreating. We w
 
 ### elements
 
-My observations about the psyche and darkness follow. I show how hygiene applies to them. I explain the secret of why it works.
+My observations about the psyche and darkness follow. I show how hygiene applies to them and explain the secret of why it works.
 
 #### psyche
 
@@ -27,7 +27,7 @@ That's a lot of work to coordinate. Like any other organic system, the psyche ne
 
 Think back to the times you got your best sleep. Besides feeling at ease, your shelter was probably especially dark, well-ventilated, and quiet. While the exact circumstances at the time cannot be replicated, these critical elements can be.
 
-### darkness
+#### darkness
 
 Man is a diurnal species, naturally awake in daytime and asleep at night. This physiological cycle is critical to psychic function. Modern life replaces the natural extremes of sun and stars with the relentless grey of artificial light and sunglasses. It replaces natural sleeping patterns with graveyard shifts and after-parties. This greyness, along with a hundred other civilized offenses, has pushed psychic illness to epidemic proportions. Simply put, our lifeway is brutal, damaging, and dysfunctional.
 
@@ -140,15 +140,13 @@ In terms of experiencing profound rest and miraculous healing, a hygienic dark r
 
 ### distinctions
 
-We are beginning to see how not all dark retreats are alike. For eons all over the world, people of every lifeway and tradition, spiritual and cultural, have retreated in darkness. But the differences in approach outlined above greatly influence results. I will explain these differences and their importance in using darkness on your own. 
+Not all dark retreats are alike. For eons all over the world, people of every lifeway and tradition, spiritual and cultural, have retreated in darkness. But the differences in approach greatly influence results.
 
 #### attitude
 
-One's attitude has a huge effect on the outcome of a retreat. Only the unconscious can perform miraculous feats of healing. If one's attitude supports it, then it can perform. If not, then not, and one's retreat will be merely amazing. 
+One's attitude has a huge effect on the outcome of a retreat. If one's attitude supports the unconscious, it can perform miracles of healing. If not, a retreat will just be amazing. It's not enough. We need miracles.
 
-Obviously, amazing doesn't suffice. We have had plenty of amazement. We need miracles. And the miracles we need only the unconscious can perform.
-
-Civilization has taught us well: in various ways, we have all come to believe that somehow, someday, we would finally _do_ something about our quandary. Our culture worships the mind---even while confounding it at every turn with dogma and restrictions.
+Civilization has taught us well: in various ways, we have all come to believe that somehow, someday, we would finally _do_ something about our quandary. Our culture worships the mind---even while confounding it at every turn with unreason and punishment.
 
 We assume doing something means willing ourselves to mental effort. We feel pumped up by the prospect of doing something consciously and directly. We eagerly sign up for workshops, submit to treatments, undertake disciplines, and experiment with exotic psychoactive substances. Meanwhile, the all-knowing unconscious rots in an unemployment line.
 
@@ -162,9 +160,9 @@ Life is the source of power. Pathologically disidentified from life, we are powe
 
 It is time to face facts. We are not going to handle our quandary as we imagine ourselves to be: just the conscious, volitional part of ourselves. We are not going to get it done or have anything to do with its getting done. We are not going to figure it out. We are fit to be tied.
 
-The best we can do is fully admit our helplessness and surrender to the only force that could ever untie the knot. It is the Gordian Knot. But the knot must be untied, the precious rope put to use again. Alexander did not properly handle it by cutting it open with his sword, and neither will we with our scheming, effort, skill, or technology.
+The best we can do is fully admit our helplessness and surrender to the only force that could ever untie the knot. It is the Gordian Knot. But the knot must be untied, the precious rope put to use again. Alexander failed when he cut it open with his sword. So will we with our effort, skill, or technology.
 
-Only the silent, slow tendrils of the organism's vast autonomic intelligence can ever untie such a tangle. But it needs our recognition, our commission to do the job. It cannot go beyond its conditioned scope of action without explicit support. The unconscious brings wholeness, not division.  Integrity is the end, so integrity must be the means as well.
+Only the silent, slow tendrils of the organism's vast autonomic intelligence can ever untie such a tangle. But it needs our recognition, our commission to do the job. It can only go beyond our knotted conditioning with conscious support. The unconscious brings personal unity, not further division. Integrity is the end, so integrity must be the means as well.
 
 Hygiene's emphasis on rest and healing is an important idea. It defines the appropriate _attitude_ toward retreating. How one approaches a retreat has a great effect on what happens in it. I learned this in fasting. The mind becomes extremely powerful when it is resting. If one's attitude is really to passively support the omnipotent healing forces of the organism in doing everything, the effect of this internal unity will be infinitely greater than if one has the conflicted doer-attitude of a practitioner.
 
@@ -196,39 +194,41 @@ There are three things the hygienic use of darkness is not: spiritual, therapeut
 
 ##### not spiritual
 
-Hygienic dark retreating is not spiritual. This is either unbelievable or a shock to the spiritual mind. Which views spirituality as the biggest possible context. It believes everything fits inside spirituality and can be best understood spiritually. 
+Hygienic dark retreating is not spiritual. 
 
-Ironically, spirituality deals with the smallest part of the psyche: the intersection of its conscious and mental aspects.
+The spiritual mind cannot believe it or even hear it. It is a shocking idea. "Impossible!" it says. " Spirituality is the biggest possible context. Everything fits inside it and is best understood spiritually."
+
+In fact, spirituality deals with a small part of the psyche: the intersection of its conscious and mental aspects.
 
 ![diagram: psyche](/img/plan/image/psyche.png)
 
-Spirituality only regards other aspects instrumentally: good inasmuch as the conscious can access and control them. Actually, they are good inasmuch as they serve life, which they all do, otherwise they wouldn't exist.
+Spirituality only regards other aspects instrumentally: good inasmuch as the conscious can access and control them. Actually, they are good inasmuch as they serve life. Which they all do. Otherwise they wouldn't exist.
 
-Spiritual practice is discipline. It depends on the will and on thinking. But will is the most delicate, energy-consuming, and surface-level part of the psyche. It is the most damaged by trauma and the most in need of rest.
+Spiritual practice is discipline. It depends on will. But will is the most delicate, energy-consuming, and surface-level part of the psyche. It is the most damaged by trauma and the most in need of rest.
 
-Using the will for spiritual discipline takes energy from the processes that healing the will depends on. In terms of healing, it gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage. Which, ironically, is what drives people to spiritual things.
+Using the will for spiritual discipline takes energy from the processes that healing the will depends on. In terms of healing, it gives the least possible benefit for the greatest possible effort. It only produces impressive results by our abysmal standards. It obstructs accomplishment of the top priority: full recovery of the psyche from its catastrophic damage. The resulting pain drives people to spirituality, keeping it in business.
 
 For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_[^5]. 
 
-The hygienic approach entails exactly the opposite: _profound rest to accumulate energy for autonomic restoration_. At rest, the conscious self makes no attempt to ameliorate suffering. It only puts conditions of healing at the disposal of the unconscious. Whose job it is to coordinate the healing of the organism.
+The hygienic approach entails exactly the opposite: _profound rest to accumulate energy for autonomic restoration_. At rest, the conscious self makes no attempt to ameliorate suffering. It only puts conditions of healing at the disposal of 0the unconscious. Whose job it is to coordinate the healing of the organism.
 
 Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin." (--Ayn Rand[^6]) Then one struggles "against nature" (--Gurdjieff), overcoming habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life.[^7] As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary: the liar, thief, killer, and destroyer.
 
-Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to fulfill his supportive role in illness, which functions to restore health.
+Hygiene begins with the observation of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to fulfill his supportive role in illness, which functions to restore health.
 
-Lastly, discipline sets up artificial dangers and obstacles. The conscious takes control of the process. This usurps the responsibility of the omnipotent unconscious to handle it. The ego becomes subject to the grand-scale forces involved, which are beyond its capability. Without close supervision of a spiritual guide, harm is sustained.
+Lastly, discipline sets up artificial dangers and obstacles. The conscious takes control of the process. This usurps the responsibility of the omnipotent unconscious to handle it. The ego becomes subject to forces which will overwhelm it. A qualified spiritual guide must protect a retreater with close supervision. 
 
 Practices engage the will so forcefully that its overpowers the instinct to rest. Most of the possible benefits of being in darkness are prevented. These would include the psychic independence necessary to break away from the tradition and the over-arching cult of civilization itself.
 
-Supervision places subtle controls on the individual, further limiting the experience and results. Disciplined traditions then spread fear of dark retreating without spiritual preparation and facilitation. It is a racket based on a self-fulfilling delusion.
+Supervision places subtle controls on the individual, further limiting the experience and results. Spiritual traditions spread fear of retreating without spiritual preparation and facilitation. This controls access to darkness, which people could otherwise free themselves with. Spirituality is a racket based on a self-fulfilling delusion.
 
 Hygiene exposes rackets: medical, spiritual, or otherwise. 
 
 I was born into an esoteric tradition. Later, I met great masters, lived ascetically, and had a guru. That was my world.
 
-My conclusion is that spirituality is the world's most sophisticated trap. It how society captures the most intense seekers of truth, freedom, selfhood, and righteousness. It shuttles them into whichever tradition and denomination suits them. It is the top-level of the control system we are slaves of. Freedom from spirituality brings a chance of genuine freedom in this life.
+My conclusion is that spirituality is the world's most sophisticated trap. It is how society captures the most intense seekers of truth, freedom, selfhood, and righteousness. It hustles them into whichever tradition and denomination suits them. It is the top-level of the control system we are slaves of. Freedom from spirituality brings a chance of genuine freedom in this life.
 
-I recommend the liberating exposés of spirituality of two great and daring thinkers: a Christian, Walter Veith[^8], and an ex-New Ager, George Kavassilas[^9]. 
+I recommend the liberating exposés of spirituality by two great and daring thinkers: a Christian, Walter Veith[^8], and an ex-New Ager, George Kavassilas[^9]. 
 
 ##### not therapeutic
 
@@ -326,7 +326,7 @@ A retreater is especially vulnerable. Darkrooms must be strongholds against male
 - redundant security procedures, including screening measures (eg, the Psychopathy Checklist)
 - wise operators with a strategy to keep everyone from harm
 
-Evil is real. Malevolent psychopaths and narcissists are among us. They may wish to retreat or become supporters for any number of reasons. Physically and socially, they must by dealt with, and in ways that do not make matters worse. Let us begin by acknowledging their existence.
+Evil is real. Malevolent psychopaths and narcissists are among us. They may wish to retreat or become supporters for any number of reasons. Physically and socially, they must be dealt with, and in ways that do not make matters worse. Let us begin by acknowledging their existence.
 
 Statistics are surprising. Andrei Lobaczewski, author of _Political Ponerology_ was a clinical psychologist. He studied psychopathy on a mass scale within mass psychopathic states (Poland under Nazism, then communism). He found that 0.6% of the population are primary psychopaths, 5.4% are secondary psychopaths, and 12% are narcissists[^12]. That is 18%, about 1 in 6 people. Most of them are not evildoers due to good training and the law. But the few who are evildoers perpetrate half of all violent crime[^13].
 
@@ -371,16 +371,10 @@ Buckle up. We are heading into the abysmal and pregnant psychology behind hygien
 [^5]: See [*In Search of the Miraculous*](/f/search.pdf)\* by PD Ouspensky on Gurdjieff's teachings
 [^6]: _Atlas Shrugged_, in Galt's Speech
 [^7]: _The Continuum Concept_, Jean Liedloff, about parenting and natural, non-adversarial relationship
-[^8]: Walter Veith is an Adventist evangelist and former biology professor. He exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he conveys the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught). 
+[^8]: Walter Veith is an Adventist evangelist and former biology professor. He exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he conveys the unified story arc of the Bible and Christ's message of salvation by grace. See his lecture series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught). (Hygiene's restful approach to healing translates Christ's message into biological terms.)
 [^9]: George Kavassilas, philosopher and ET contactee, wrote [*Our Universal Journey*](https://www.ourjourneyhome.earth/market-place#section-1592035487385). George exposes _all_ spiritual activity, including Christianity, as part of an all-too-real, cosmic-scale [*God Control Matrix*](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
 [^10]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p103
 [^11]: _Raw Courage World_ a hard to find, fun-park ride of a book by the gonzo Fouad "Raw Courage" Dini. While reading it, many wonder if it is really happening. Yes, it is.
 [^12]: [*Political Ponerology*](/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms, and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
 [^13]: ["Psychopaths Among Us"](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
-[^14]: [*Malignant Self-Love: Narcissism Revisited*](https://narcissistic-abuse.com) by Sam Vaknin is _the_ book for narcissists (and their victims) who seek conscious aid in understanding and reforming their condition.
-
-
-
-
-
-
+[^14]: [*Malignant Self-Love: Narcissism Revisited*](https://narcissistic-abuse.com) by Sam Vaknin may be _the_ book for narcissists (and their victims) who seek aid in understanding and reforming their condition on a conscious level.
