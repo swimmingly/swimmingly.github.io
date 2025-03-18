@@ -1,5 +1,5 @@
 ---
-title: individualist overview
+title: overview of individualist government
 layout: page
 navprev: free
 permalink: /other/overview/
@@ -8,7 +8,9 @@ navnext: individualism
 
 ### captured
 
-To live fully, we need freedom. But a universal mistake about government has captured us. This essay opens the cage.
+To live fully, we need freedom. But an old mistake about government has captured us, especially here in America. This essay opens the cage.
+
+We will identify the reason for politics, examine the contradiction plaguing America's, and present the logical solution.
 
 ### politics
 
@@ -26,13 +28,14 @@ The politics of _individualism_ answers, "Freedom", of _collectivism_, "Slavery"
 
 A society controls (governs) the use of force within it through its _state_. A state consists of the institutions of legislation, defense, and adjudication, _whatever forms they take_. 
 
-America's problem lies here. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. The collectivist part of this contradiction causes our political and social strife. It must be exposed and replaced.
+Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. 
+This collectivist contradiction causes our political and social strife. It results from the universal mistake of assuming a state must be centralized. 
 
 In a centralized state, people delegate power to representatives by voting or submission. Representatives meet in central bodies to make decisions collectively for everyone, _according to his level of power_. This mixing of political and legal fate contradicts the individualist principles of independence, self-determination, and self-government by exercise of non-negotiable rights.
 
 Regarding levels of power: one who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a death wish whose persistence eventually obliges politicians to take as a command.
 
-A centralized state contaminates any individualist ideas it handles with collectivism. The contamination accumulates, ultimately overpowering the individualist core of the way of life.
+A centralized state poisons any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life.
 
 Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. The centralized design causes corruption, conspiracy, tyranny.
 
@@ -46,6 +49,7 @@ To solve this problem, we need:
 
 #### form
 
+ We must begin to conceive that there could be another kind of state.
 America's problem comes from the universal mistake about government: conflating the state with the centralized state. The centralized state is merely one kind of state. We must imagine that there could be another kind of state, and then identify it. It takes only a little logic.
 
 Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
@@ -82,11 +86,9 @@ We recover natural government with a three-point, assymetric strategy:
 
 The individualist party helps organize these activities for members. Note the lack of running candidates for elected office, courting supporters, even fundraising. Assymmetry means focusing on exposed factors in society's Roman control system, not its well-protected conventions.
 
-### explanation
-
 The first point is a familiar tactic. The second and third points need explanation.
 
-#### living power
+##### living power
 
 Freedom requires power. There are two kinds.
 
@@ -98,19 +100,13 @@ We lost most of our living power with our health millennia ago when a global cat
 
 High intelligence and joy in living, also lost with trauma, return along with power.
 
-#### autonomous infrastructure
+##### autonomous infrastructure
 
-Freedom requires material independence. But we have been enslaved both physically and psychically.
-
-We have physically depended on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, its main reason for being, and its life-and-death power over us.
-
-We have become psychically dependent on electronic technology. It is a new universal drug, like coffee.
+Freedom requires material independence. But we have physically depended on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.
 
 So we will use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills will reinforce independence. Likewise, we will replace the system's secondary services: money, education, medicine, etc.
 
-Society remains stable. The centralized state shrinks gradually as fewer people depend on it.
-
-Disclosure of state secrets will occur as people demonstrate capacity for truth.
+Society remains stable. The centralized state shrinks gradually as fewer people depend on it. Disclosure of its secrets will occur as people demonstrate capacity for truth.
 
 ### attitude
 
