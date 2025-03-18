@@ -51,8 +51,7 @@ To solve this problem, we need:
 
 #### form
 
-
-America's problem comes from the universal mistake about government: conflating the state with the centralized state. The centralized state is merely one kind of state. Now we can identify another kind of state. It takes only a little logic.
+America's problem comes from the universal mistake about government: conflating the state with the centralized state. The centralized state is merely one kind of state. Now we can identify another kind of state. It just takes a little logic.
 
 Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
 
@@ -66,7 +65,7 @@ In a distributed state, everyone that a criminal sees is a legal expert, soldier
 
 Most penalties for crime are monetary, paid to injured parties and court personnel. Dangerous criminals are confined non-punitively. They work to cover costs and have opportunities to rehabilitate and retrain.
 
-A state is called a state because it is _static_, the unchanging foundation of society, its constant condition. Which is peace. The state of society is peace. People cannot associate and be at war at the same time. So the state keeps the peace. It ends disturbances of the peace.
+A state is called a state because it is _static_. It is the unchanging foundation of society, its constant condition. Which is peace. The state of society is peace. People cannot associate and war on each other at the same time. So the state keeps the peace. It ends disturbances of the peace.
 
 #### refinement
 

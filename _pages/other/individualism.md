@@ -8,9 +8,9 @@ navnext: sanity
 
 ### notes toward an individualist form of government
 
-This not an essay, but a collection of notes. They are only semi-organized. But they touch on all main points. They are enough to begin thinking about form of government very differently.
+This not an essay, but a collection of notes. They are only semi-organized. But they touch on all main points. They are enough to begin thinking about the form of government very differently.
 
-Until it can be shaped into a proper piece of writing, I must partly count on your subconscious to organize it into coherency. It was more important to post it than wait till I could shape it up. It is a 35-minute read. See also my 7-minute [overview](./overview).
+Until it can be shaped into a proper piece of writing, I must partly count on your subconscious to organize it into coherency. It was more important to post it than wait till I could shape it up. It is a 35-minute read. See also my 8-minute [overview](./overview).
 
 ### intro
 
@@ -18,7 +18,7 @@ We have been captured by a mistaken idea about the state. It distorts our thinki
 
 The essential mistake is that a state is inherently centralized. So people must delegate their power to representatives who meet in central bodies to make decisions binding on everyone. People must live in thrall to this drama. Society gets organized around it.
 
-Actually, the state could be _distributed_. Delegation of power, representation, central bodies, collective decision-making, and social-scale drama can be abandoned. These notes relate the philosophy and mechanics of an individualist distributed state.
+The state could instead be _distributed_. Delegation of power, representation, central bodies, collective decision-making, and social-scale drama can be abandoned. These notes relate the philosophy and mechanics of an individualist distributed state.
 
 ### metaphysics
 
@@ -73,7 +73,9 @@ Let no one be seduced by collectivist appeals to the "common good" or offers of 
 
 ### precepts 
 
-Rather than a constitution, a set of precepts <!--[_precepts_](/other/precepts.md)-->of law is formulated. These are simple statements of eternal facts about man's political nature. They outline natural rights, their moral and metaphysical basis, the basic crimes that violate them, and how a state functions to protect them. They are the natural basis for binding law. They would make up a short, simple statement, say 500 words maximum. A 4 year-old could grasp its basics. A 15 year-old would be a master of it and proficient with both law and self-defense.
+Rather than a constitution, a set of precepts <!--[_precepts_](/other/precepts.md)-->of law is formulated. These are simple statements of eternal facts about man's political nature. They outline natural rights, their moral and metaphysical basis, the basic crimes that violate them, and how a state functions to protect them. They are not legally but naturally binding. They are inescapable. They form the natural basis for binding law. 
+
+They would make up a short, simple statement, say 500 words maximum. One A4 page. A 4 year-old could grasp its basics. A 15 year-old would be a master of it and proficient with both law and self-defense. 
 
 Everyone becomes his own legislator by making contracts based on the precepts, somewhat embodied in and elaborated by the ancient (and much longer) [Maxims of Law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm). Lawyers help. Defense companies help people protect themselves and their property. Adjudicators help settle disputes. Good actors---always a majority---band together to crush rogues. Insurance companies are ideally incentivized to coordinate those who hire them directly or indirectly through nested contracts.
 
@@ -145,13 +147,13 @@ Members of central bodies abuse power, just as the masses deserve. The people ha
 
 One who delegates his power throws away what he most needs to live. It is a contemptible act, rendering him subhuman. Politicians start treating him accordingly. In the deepest sense, delegation broadcasts a death wish, a command that, by its persistence, obliges politicians to obey.
 
-This is the dark heart of a centralized state. It is a mass suicide ritual in slow motion. Look at officials' clothing: intimidating uniforms, black robes, stiff suits. They are always at an arrest, execution, and funeral.
+This is the dark heart of a centralized state. It is a mass suicide ritual in slow motion. Look at officials' clothing: intimidating uniforms, black robes, stiff suits. They are always at a capture, execution, and funeral.
 
 All the natural human qualities democracy condemns as civic sins are the virtues of a free state: apathy, inertia, selfishness, disregard for the "public good" (an altruist-collectivist fantasy).
 
-Data mining and individualized micro-targeting of political ads (see the film, "Brexit: The Uncivil War") are _made_ for individualism and a distributed state. Everyone gripes about state controls somehow. The party rubs that nerve raw. An exodus is coming, a permanent, general strike from central government, just as in the Velvet Revolution in Czech Republic, _Atlas Shrugged_, and in "La Belle Verte" (particularly in the history the young men share at 1:07:30).
+Data mining and individualized micro-targeting of political ads (see the film, "Brexit: The Uncivil War") are _made_ for individualism and a distributed state. Everyone gripes about state controls somehow. The party rubs that nerve raw. An exodus is coming, a permanent, general strike from central government, just as in the Velvet Revolution in Czech Republic, _Atlas Shrugged_, and in "La Belle Verte" (particularly in the history the heroine's sons share at 1:07:30).
 
-Individualism will win a first challenge. But without proper preparation (several individuals restored to sufficient power) the collectivists' second challenge could recapture people more deeply than before with new levels of brutality and fearsomeness.
+Individualism can win a first challenge. But without proper preparation (several individuals restored to sufficient power) the collectivists' second challenge could recapture people more deeply than before with new levels of brutality and fearsomeness.
 
 ### current powers
 
@@ -159,21 +161,23 @@ A more important power of citizens than voting is jury nullification of unjust l
 
 Most important is the prosecution of suits in court. Common people can do this without lawyers. Dr Frederick Graves and his 100k students have proven this with his law course, [Jurisdictionary](https://howtowinincourt.com?refercode=DA0054). It takes only _6-8 hours_ (!) of study.
 
-Of course, the will to self-defense and the skills necessary are important at all times. But this is where liberation by learning and action breaks down. The will to self-defense is a function of power, a biological phenomenon. Without it, any program, no matter how good, is useless. With it, such programs for beating back evil become unnecessary.
+Of course, the will to self-defense and the skills necessary are important at all times. But this is where liberation by learning and action breaks down. The will to self-defense is a function of power, a biological phenomenon. Without it, any program, no matter how good, is useless. With it, such programs for beating back evil become redundant.
 
 ### tragedy
 
-The tragedy of America is that its individualist philosophy got no individualist form of government to match it and express itself through. The Founders gave it a collectivist form of government: the centralized state they assumed a state is. They built a collectivist machine. Whether fed individualism or collectivism, it produces collectivism. Now its product has nearly overthrown its feedstock.
+The tragedy of America is that its individualist philosophy got no individualist form of government to match it and express itself through. The Founders gave it a collectivist form of government: the centralized state they assumed a state is. They built a collectivist machine. It produces collectivism whether fed individualist or collectivist ideas. Now its product has nearly overthrown its feedstock.
 
 Centralization means representation, voting, and controversy. This leads to secrecy, corruption, injustice, salvation, and reform. It all makes a pointless drama in which everyone is dragged along in everyone else's demands and sacrifices. It is the primary racket of civilization: traumatize people into powerlessness, then offer them protection. Surrender power, bargain for some of it back.
 
-No. It is my power to begin with. I say what happens with it. I retain it in my cell of the distributed state. Which gives me no opening to use it anywhere else.
+No. It is my power to begin with. I say what happens with it. I retain it in my cell of the distributed state. This gives me no opening to use it anywhere else, and I don't want any. Those who do will be frustrated and stopped.
 
-An individualist party is just a restorative influence. It calls people back to psycho-political health and supports them in ruling their own lives, as so many of us are desperately trying to do, despite the burgeoning armies of busybodies.
+An individualist party is just a restorative influence. It calls people back to psycho-political health and supports them in ruling their own lives, as so many of us are desperately trying to do, despite the burgeoning armies of busybodies. 
 
 What can individualists do against, for example, a polluter? Complain privately and offer help to fix it. Then point out the problem publicly. Set a deadline. Boycott. Sue.
 
 Anyone who is not an individualist---a believer in the rights of man---is a criminal sympathizer. As Gandhi said, "Non-cooperation with evil is as much of a duty as cooperation with good."
+
+Respecting others' rights is normal to healthy people. It is common sense and a natural form of government. It is always with us, always available, just obscured sometimes.
 
 ### security vs safety
 
@@ -216,7 +220,7 @@ _Atlas Shrugged_ by Ayn Rand is important to read first. Rand sets the stage for
 
 _The Moon is a Harsh Mistress_ by Robert Heinlein shows a whole world operating in a distributed way. It is super fast-paced and fun, like all his books.
 
-_The Market for Liberty_ by Morris and Linda Tannehill focuses on the mechanics but has plenty of philosophy and examples. They show how every function of centralized states is or would be better handled by individuals and companies. They explain the many failures of centralized states. They show the intriguing role of insurance companies in organizing most state functions: validating and insuring contracts, providing security and arbitration for those they insure, coordinating security forces and weaponry for even large-scale defense. The cost of governance can decrease from its current despotic rapacity to negligible levels with normal levels of profitability of business.
+[_The Market for Liberty_](https://mises.org/library/book/market-liberty) by Morris and Linda Tannehill focuses on the mechanics but has plenty of philosophy and examples. They show how every function of centralized states is or would be better handled by individuals and companies. They explain the many failures of centralized states. They show the intriguing role of insurance companies in organizing most state functions: validating and insuring contracts, providing security and arbitration for those they insure, coordinating security forces and weaponry for even large-scale defense. The cost of governance can decrease from its current despotic rapacity to negligible levels with normal levels of profitability of business.
 
 Besides books, normal relations between people show it as well. Every moment we deal with each other peacefully, we are making and keeping our own laws, providing our own security, settling our own disputes. Thus we are maintaining the state: the unchanging condition of society. I mean the requirement of society: peace. _The state is peace._
 
@@ -313,11 +317,13 @@ Freedom is the quality of a society that stands against the initiation of force 
 
 The worst attitude is to deny the state as such, ie, anarchy. This naive repression causes the state to assume the worst possible forms. Anarchy is the most insidious form of collectivism. Communists spread the lie of anarchy among conscientious but naive youth. Who become the useful idiots, the paid vanguard and cannon fodder of future collectivist states.
 
-Government is not mind control but control by the mind. To resist government is to resist reason, to defy the reality reason comprehends, and ultimately, to seek its annihilation. Which is why anarchists become filled with fear of and hatred for everything. They project their own desperate evil outward as they smash and burn what is left of the decency and order around them. It's a sad waste due to cultural bad training---and the logical result of generations of state schooling.
+Government is not mind control, but an instrument of control. To resist government is to resist reason, to defy the reality reason comprehends, and ultimately, to seek its annihilation. Which is why anarchists become filled with fear of and hatred for everything. They project their own desperate evil outward as they smash and burn what is left of the decency and order around them. It's a sad waste due to cultural bad training---and the logical result of generations of state schooling.
+
+Anarcho-capitalist philosophy is shallow. It pretends politics can exist without its philosophical roots. It imagine that money will motivate everyone to be good. It retires from conflict and complains when evil triumphs. It is fatally naive. Some people (communists, jihadis, etc) hate money. It is a sign of evil. It incites them. Only force reaches them: either force of presence or force of arms. Take your pick.
 
 #### philosophy 
 
-Individualism is based on the ethics of egoism or selfism, the epistemology of reason, and the metaphysics of realism. Its foremost philosophical advocates are Ayn Rand, John Locke, and Aristotle. The result is the fabulous freedoms, refinement, and prosperity of Western society for hundreds of years.
+Individualism is based on the ethics of egoism or selfism, the epistemology of reason, and the metaphysics of realism. Its foremost philosophical advocates are , Aristotle, John Locke, and Ayn Rand. The results are the fabulous freedoms, refinement, and prosperity of Western society for hundreds of years.
 
 Collectivism mystically views society as the moral agent. It views an individual as provisional, or illusory, or as a mere cell in the larger "whole" of society. Thus the individual has no will, no absolute rights. The life, motility, and possessions loosely associated with him belong to the state. 
 
