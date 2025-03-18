@@ -404,16 +404,16 @@ Gupta concretized autonomous infrastructure with the [Hexayurt Project](https://
 
 [Living Energy Farm](https://livingenergyfarm.org) uses direct solar power—no expensive batteries or controllers—in most of its systems. The (@DoomerOptimism) interview on YouTube is good.
 
-My [designs](/other#design) and the last 5 chapters of my [book](/) demonstrate the same subversive approach to high-tech: using new technology for purposes simpler than intended or to make technology unnecessary altogether; using new methods and materials to renew obsolete technology; and all to provide conditions for life to revive itself.
+My [designs](/other#design) and the last 5 chapters of my [book](/) demonstrate the same subversive approach. I use technology for purposes simpler than intended; using new methods and materials to renew obsolete technology; and all to provide conditions for life to revive itself to ultimately make make technology unnecessary altogether.
 
-This combination of old and new to serve life is part of the low-tech approach to design. The other part is reducing demand to match autonomous supply rather than keeping demand high and setting up expensive, tricky renewable supply to match it. One uses 90% less time, money, and energy to get a higher quality of life. The other enslaves us even worse than now.
+This combination of old and new technology to serve life is part of the low-tech approach to design. The other part is reducing demand to match autonomous supply. This contrasts with the eco-tech delusion of keeping demand high and setting up expensive, tricky "renewable" supply to match it. One uses 90% less time, money, and energy to get a higher quality of life. The other enslaves us even worse than now.
 
 ### strategy
 
 We are trapped in the system by belief, powerlessness, and dependency on its infrastructure. So our strategy to recover freedom is to:
 
-1. study enough [philosophy](#meta) and [law](#current-powers) to see the situation clearly
-2. heal from trauma in [hygienic dark retreat](/) to recover the power that freedom requires
+1. study enough [philosophy](#meta) and [law](#current-powers) to function
+2. recover the power that freedom requires by healing from trauma in [hygienic dark retreat](/)
 3. adopt [autonomous infrastructure](#autonomous-infrastructure)
 
 Conventional soft infrastructure deludes and sickens us. It includes medicine, high-technology, propaganda, school, and jobs. Conventional hard infrastructure induces our physical dependence on the system. It includes shelter, heating, water, food, waste, energy, transportation, money. 
