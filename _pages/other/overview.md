@@ -39,6 +39,8 @@ A centralized state poisons any individualist ideas it handles with collectivism
 
 Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. The centralized design causes corruption, conspiracy, tyranny.
 
+We must begin to conceive that there could be another kind of state.
+
 ### solution
 
 To solve this problem, we need:
@@ -49,8 +51,8 @@ To solve this problem, we need:
 
 #### form
 
- We must begin to conceive that there could be another kind of state.
-America's problem comes from the universal mistake about government: conflating the state with the centralized state. The centralized state is merely one kind of state. We must imagine that there could be another kind of state, and then identify it. It takes only a little logic.
+
+America's problem comes from the universal mistake about government: conflating the state with the centralized state. The centralized state is merely one kind of state. Now we can identify another kind of state. It takes only a little logic.
 
 Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
 
