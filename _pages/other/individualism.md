@@ -8,15 +8,15 @@ navnext: sanity
 
 ### notes toward an individualist form of government
 
-This not an essay, but a collection of notes. They are only semi-organized. But they touch on all main points. They are enough to begin thinking about the form of government very differently.
+This a collection of notes. They are only semi-organized. But they touch on all main points. They are enough to begin thinking about the form of government very differently.
 
-Until it can be shaped into a proper piece of writing, I must partly count on your subconscious to organize it into coherency. It was more important to post it than wait till I could shape it up. It is a 35-minute read. See also my 8-minute [overview](./overview).
+Until it can be shaped into a proper manifesto, I must partly count on your mind to organize it into coherency. It was more important to post it than wait till I could shape it up. It is a 35-minute read. See also my 8-minute [overview](./overview).
 
 ### intro
 
-We have been captured by a mistaken idea about the state. It distorts our thinking and lives. Just knowing it, one can start to relax in a way that didn't seem possible before. 
+We have been captured by a mistaken idea about the state. It distorts our thinking and lives. Just knowing about it, one can start to relax in a way that didn't seem possible before. 
 
-The essential mistake is that a state is inherently centralized. So people must delegate their power to representatives who meet in central bodies to make decisions binding on everyone. People must live in thrall to this drama. Society gets organized around it.
+The essential mistake is the assumption that a state is inherently centralized. So people must delegate their power to representatives who meet in central bodies to make decisions binding on everyone. People must live in thrall to the resulting drama. Society organizes around it.
 
 The state could instead be _distributed_. Delegation of power, representation, central bodies, collective decision-making, and social-scale drama can be abandoned. These notes relate the philosophy and mechanics of an individualist distributed state.
 
@@ -73,9 +73,11 @@ Let no one be seduced by collectivist appeals to the "common good" or offers of 
 
 ### precepts 
 
-Rather than a constitution, a set of precepts <!--[_precepts_](/other/precepts.md)-->of law is formulated. These are simple statements of eternal facts about man's political nature. They outline natural rights, their moral and metaphysical basis, the basic crimes that violate them, and how a state functions to protect them. They are not legally but naturally binding. They are inescapable. They form the natural basis for binding law. 
+Rather than a constitution, a set of precepts <!--[_precepts_](/other/precepts.md)-->of law is formulated. These are simple statements of eternal facts about man's political nature. They outline natural rights, their moral and metaphysical basis, the basic crimes that violate them, and how a state functions to protect them. They are not legally but naturally binding. They are inescapable. They form the natural basis for binding law.
 
-They would make up a short, simple statement, say 500 words maximum. One A4 page. A 4 year-old could grasp its basics. A 15 year-old would be a master of it and proficient with both law and self-defense. 
+They would make up a short, simple statement, say 500 words maximum. One A4 page. A 4 year-old could grasp its basics. A 15 year-old would be a master of it and proficient with both law and self-defense.
+
+Being based on ubiquitous facts of reality, the statement would be an open source project. Others can fork it. The version would be noted in contracts. The best version---the simplest, clearest, and most complete---would become the most widely accepted. 
 
 Everyone becomes his own legislator by making contracts based on the precepts, somewhat embodied in and elaborated by the ancient (and much longer) [Maxims of Law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm). Lawyers help. Defense companies help people protect themselves and their property. Adjudicators help settle disputes. Good actors---always a majority---band together to crush rogues. Insurance companies are ideally incentivized to coordinate those who hire them directly or indirectly through nested contracts.
 
@@ -97,7 +99,7 @@ Rights are only these three. Violation is called crime. Crime is forbidden. It i
 
 A right is related to oneself. One exercises it at will, by choice, by right.
 
-These are candidates for precepts. The final set is not assembled yet. That will take someone with a restored psyche or, more probably, a group of such people.
+These are candidates for precepts. Assembling the final set will take someone with a restored psyche.
 
 ### rights
 
@@ -274,7 +276,7 @@ This is the way out.
 			- originates by "mixing one's efforts" with natural materials
 			- {vandalism, fraud, theft}
 - Party
-	- issues these non-binding precepts as open source project
+	- publishes non-binding precepts based on natural law as open source project
 	- provides forum for networking
 	- organizes embassy
 	- all activities and projects ad hoc

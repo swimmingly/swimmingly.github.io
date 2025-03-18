@@ -10,7 +10,7 @@ navnext: individualism
 
 To live fully, we need freedom. But an old mistake about government has captured us, especially here in America. This essay opens the cage.
 
-We will identify the reason for politics, examine the contradiction plaguing America's, and present the logical solution.
+We will identify the natural basis for politics and examine the contradiction plaguing America's. Then we will discuss a logical solution and how to apply it.
 
 ### politics
 
@@ -57,15 +57,15 @@ Just as the collectivist form of government is a centralized state, the individu
 
 In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies can combine these services with coverage and help coordinate large-scale defense.
 
-Law in contracts is based on _precepts_: statements of laws of nature. Precepts regard political essentials: individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are simple and fit on one page. A four year-old can understand them. Traditional Maxims of Law elaborate them. 
+Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes of that violate them; and the means of protecting them. They are simple and fit on one page. A four year-old can understand them. Traditional [Maxims of Law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) elaborate them. 
 
-They could be called common sense.
+Once, we called them common sense.
 
-In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch. What no one has "mixed his efforts with" (Locke) is unowned and available for possession, especially land.
+In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts with" (Locke) is unowned and available for possession, especially land.
 
-Most penalties for crime are monetary, paid to injured parties and court personnel. Dangerous criminals are confined non-punitively. They work to cover costs and have opportunities to rehabilitate and retrain.
+Most penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain.
 
-A state is called a state because it is _static_. It is the unchanging foundation of society, its constant condition. Which is peace. The state of society is peace. People cannot associate and war on each other at the same time. So the state keeps the peace. It ends disturbances of the peace.
+A state is called a state because it is _static_. It is the unchanging foundation, the constant condition of society. Which is peace. The state of society is peace. People cannot associate and make war on each other at the same time. So the state keeps the peace. It ends disturbances of the peace.
 
 #### refinement
 
@@ -81,13 +81,13 @@ Natural government is always with us. It is obvious when we are well, obscure wh
 
 We recover natural government with a three-point, assymetric strategy:
 
-1. gain knowledge through study of philosophy, history, law, self-defence, hygiene (science of health), psychology, and technology—enough to function with them
+1. gain knowledge through study of philosophy, history, law, self-defence, hygiene (science of health), psychology, and technology—enough to function with them.
 2. recover personal power through healing from trauma in hygienic dark retreat.
 3. recover material independence through autonomous infrastructure: off-grid, low-tech life support.
 
-The individualist party helps organize these activities for members. Note the lack of running candidates for elected office, courting supporters, even fundraising. Assymmetry means focusing on exposed factors in society's Roman control system, not its well-protected conventions.
+An Individualist Party helps organize these activities for members. It does not run candidates for elected office, court supporters, or even fundraise. Assymmetry means focusing on exposed factors in society's Roman control system, not its well-protected conventions.
 
-The first point is a familiar tactic. The second and third points need explanation.
+The first point is familiar. The second and third points need explanation.
 
 ##### living power
 
