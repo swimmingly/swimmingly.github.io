@@ -24,7 +24,7 @@ For 21 years, I combed the edges of philosophy, health, and design for clues to 
 - [From Where?](./from-where/) understanding Daniel Quinn
 - [Nothing to Fear, Even Fear Itself](./nothing) 
 - [Free](./free), a simple plan for freedom, as applied to a piece of land in Guatemala
-- [Overview](./overview) of an individualist form of government
+- [Overview](./overview) of individualist government
 - [Individualism](./individualism) notes toward an individualist distributed state
 
 ### Health

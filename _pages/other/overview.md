@@ -1,5 +1,5 @@
 ---
-title: overview of individualist government
+title: Overview of Individualist Government
 layout: page
 navprev: free
 permalink: /other/overview/
