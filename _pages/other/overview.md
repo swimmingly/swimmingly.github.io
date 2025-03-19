@@ -28,7 +28,7 @@ The politics of _individualism_ answers, "Freedom", of _collectivism_, "Slavery"
 
 A society controls (governs) the use of force within it through its state. A state consists of the institutions of legislation, defense, and adjudication, _whatever forms they take_.
 
-Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. The Founders made the universal mistake of assuming a state must be centralized. This collectivist contradiction causes our political and social strife. 
+Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. This collectivist contradiction causes our political and social strife.
 
 In a centralized state, each individual delegates his power to representatives by voting or submission. Delegates meet in central bodies to make decisions collectively for everyone. This mixing of political and legal fate contradicts the individualist principles of independence, self-determination, and self-government by exercise of non-negotiable rights.
 
@@ -38,7 +38,7 @@ A centralized state poisons any individualist ideas it handles with collectivism
 
 Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. The centralized design causes corruption, conspiracy, tyranny.
 
-We must begin to conceive that there could be another kind of state.
+How did it happen? The Founders made the old mistake of assuming a state must be centralized. Now we are captured by it. We must begin to conceive that there could be another kind of state.
 
 ### solution
 
@@ -82,9 +82,9 @@ We recover natural government with a three-point, assymetric strategy:
 2. recover personal power through healing from trauma through profound rest in [hygienic dark retreat](/).
 3. recover material independence through [autonomous infrastructure][./individualism#autonomous-infrastructure): off-grid, low-tech life support.
 
-An Individualist Party helps organize these activities for members. It does not run candidates for elected office, court supporters, or even fundraise. Assymmetry means focusing on exposed factors in society's control system, not its well-protected conventions.
+An Individualist Party helps organize these activities for members so they may better lead their own lives. It does not run candidates for centralized leadership, court supporters, or even raise funds. Assymmetry means focusing on less controlled factors of the centralized system, not its well-protected ones.
 
-The first point is familiar. The second and third points need explanation.
+The strategy's first point is familiar. The second and third need explanation.
 
 ##### living power
 

@@ -15,7 +15,7 @@ It also contains:
 
 ### Intro
 
-For 21 years, I have combed the edges of philosophy, health, and design for clues to a sane way to live. Here I describe some of my findings. 
+For 21 years, I combed the edges of philosophy, health, and design for clues to a sane way to live. Here I describe some of my findings. 
 
 ### Philosophy
 
@@ -23,8 +23,9 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 - [Sociality Undenied](./sociality/) the operative principle of band society
 - [From Where?](./from-where/) understanding Daniel Quinn
 - [Nothing to Fear, Even Fear Itself](./nothing) 
-- [Individualism](./individualism) notes toward an individualist distributed hyperstate
 - [Free](./free), a simple plan for freedom, as applied to a piece of land in Guatemala
+- [Overview](./overview) of an individualist form of government
+- [Individualism](./individualism) notes toward an individualist distributed state
 
 ### Health
 
@@ -54,16 +55,15 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 	- [Aphorisms](./aphorisms): sayings especially relevant to the restful use of darkness <span id=new>NEW</span>
 	- [Jean's Little Rules](/f/rules): Jean Liedloff's rules for parents <span id=new>NEW</span>
 - health
-	- [Laws](/f/laws) hygiene's Laws of Life
-	- [Virus](/f/virus) by Klein & Sniadach: the apotheosis of germ theory, medicine's favorite hoax <span id=new>NEW</span>
 	- [Fasting: A Prodigious Discovery](/f/fasting-discovery) by Albert Mosseri, French hygienic master, _excerpted from:_
 	- [*Fasting: Nature's Best Remedy*](/f/fasting) by Albert Mosseri
-	- [*Maharaj*: A Biography of Shriman Tapasviji Maharaj, a Mahatma Who Lived for 185 Years](/f/maharaj/) by T S Anantha Murthy, including a report of a long dark retreat <span id=new>NEW</span>
+	- [Virus](/f/virus) by Klein & Sniadach, exposing the apotheosis of germ theory, medicine's favorite hoax <span id=new>NEW</span>
 	- [Wireless Radiation](/f/wireless) a research summary by the Naval Medical Research Institute, 1972. <span id=new>NEW</span>
-	- [True Healing Art](/f/trall.pdf) by Russell Trall, a speech by a founder of hygiene in 1862 at the Smithsonian. <span id=new>NEW</span>
-	- [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf) by Herbert Shelton, his masterwork and overview of hygiene, originally _Orthobionomics_, Volume I of The 7 volume Hygienic System.	<span id=new>NEW</span>
-	- [*Orthopathy VI*](/f/orthopathyvii.pdf) by Herbert Shelton, on general pathology <span id=new>NEW</span>
-	- [*Orthopathy VII*](/f/orthopathyvii.pdf) by Herbert Shelton, on specific illnesses and their care <span id=new>NEW</span>
+	- [True Healing Art](/f/trall.pdf) by Russell Trall, a speech by a founder of hygiene in 1862 at the Smithsonian. PDF. <span id=new>NEW</span>
+	- [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf) by Herbert Shelton, his masterwork and overview of hygiene, originally _Orthobionomics_, Volume I of The 7 volume Hygienic System. PDF. <span id=new>NEW</span>
+	- [*Orthopathy VI*](/f/orthopathyvii.pdf) by Herbert Shelton, on general pathology. PDF.<span id=new>NEW</span>
+	- [*Orthopathy VII*](/f/orthopathyvii.pdf) by Herbert Shelton, on specific illnesses and their care. PDF. <span id=new>NEW</span>
+	- [*Maharaj*: A Biography of Shriman Tapasviji Maharaj, a Mahatma Who Lived for 185 Years](/f/maharaj/) by T S Anantha Murthy, including a report of a long dark retreat <span id=new>NEW</span>
 - agriculture
 	- [Origins of Agriculture](/f/origins) by Wadley & Martin. A stunning _What if…?_
 	- [On a Green Mountain with Masanobu Fukuoka](/f/fukuoka), the Sensei of Natural Farming
