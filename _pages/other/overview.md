@@ -34,7 +34,7 @@ In effect, politics asks everyone a single question: freedom or slavery? Shall I
 
 The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualist society is characterized by self-regulation; collectivist society, by centralized control. (--Rand)
 
-A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, the these institutions comprise a society's state.
+A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, these institutions comprise a society's state.
 
 Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. The collectivist part of this contradiction causes our political and social strife.
 
