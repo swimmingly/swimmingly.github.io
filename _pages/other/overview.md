@@ -36,11 +36,11 @@ The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery"
 
 A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, these institutions comprise a society's state.
 
-Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. The collectivist part of this contradiction causes our political and social strife.
+Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state, at federal, state, and local levels. The collectivist part of this contradiction causes our political and social strife.
 
-In a centralized state, each individual delegates his power to representatives by voting or submission. Delegates meet in central bodies to make decisions collectively for everyone. This mixing of political and legal fate contradicts the individualist principles of independence, self-determination, and self-government by exercise of non-negotiable rights.
+In a centralized state, everyone delegates his power to representatives by voting or submission. Delegates meet in central bodies to make decisions collectively for everyone. This mixing of political and legal fate contradicts the individualist principles of independence, self-determination, and self-government by exercise of non-negotiable rights.
 
-Decisions are applied to people according to their varying levels of power. One who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a death wish which eventually obliges politicians to take as a command.
+Decisions are applied to people according to their varying levels of power. One who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a death wish. Eventually it obliges politicians to take it as a command.
 
 A centralized state poisons any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life.
 
