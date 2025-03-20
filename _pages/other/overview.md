@@ -8,9 +8,17 @@ navnext: individualism
 
 ### captured
 
-To live fully, we need freedom. But we are captured by an old mistake about government, most clearly here in America. This essay opens the cage.
+We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall. It is clearest here in America. This essay opens the cage.
 
-We will identify the natural basis for politics and examine the contradiction plaguing America's. Then we will discuss a logical solution and how to apply it.
+### mistake
+
+"The state is centralized." This is the mistake.
+
+It is a mistake as old as civilization. Everyone has made it. The Ancients. Barbarian hordes. Philosophers, prophets, emperors, popes and kings. America's Founding Fathers. Conservatives and Progressives today. Capitalists, communists, fascists, socialists, gangs, theocrats. Anarchists, both communist and capitalist. Some want to build it up. Others want to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else. 
+
+In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: spread out to the individual level, with no central bodies. All it needs is an organizing principle.
+
+We begin this essay with politics, identifying its natural basis. We will examine the problems plaguing centralized states. Then will derive the logical solution of distribution and a strategy to apply it in a volatile world.
 
 ### politics
 
@@ -18,27 +26,25 @@ Philosophy describes the fundamental facts of reality: its nature, how it is kno
 
 One fact of life is so important, a whole branch of philosophy is needed to handle it: man's great and terrible power to use physical force against others. _Politics_ determines, by moral sanction, how force is to be used in society.
 
-If used in defense, force frees people to live in peace, prosperity, and harmony. If in offense, it deceives, robs, enslaves, and murders people and destroys the world. The first achieves universal justice, the second, universal crime.
+If used in defense, force frees people to live in peace, prosperity, and harmony. If in offense, it deceives, robs, enslaves, and murders people and destroys the world. In defense achieves universal justice, in offense, universal crime.
 
 In effect, politics asks everyone a single question: freedom or slavery? Shall I live by right to life, liberty, and property—my body, movements, and possessions? Or shall I exist by permission, under legal compulsion, to be dispossessed, enslaved, and killed at the will of others?
 
 ### analysis
 
-The politics of _individualism_ answers, "Freedom", of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualist society is characterized by self-regulation; collectivist society, by centralized control. (Rand)
+The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualist society is characterized by self-regulation; collectivist society, by centralized control. (--Rand)
 
-A society controls (governs) the use of force within it through its state. A state consists of the institutions of legislation, defense, and adjudication, _whatever forms they take_.
+A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, the these institutions comprise a society's state.
 
-Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. This collectivist contradiction causes our political and social strife.
+Here is America's problem. We have an individualist politics and way of life. But we have a collectivist form of government: the centralized state at federal, state, and local levels. The collectivist part of this contradiction causes our political and social strife.
 
 In a centralized state, each individual delegates his power to representatives by voting or submission. Delegates meet in central bodies to make decisions collectively for everyone. This mixing of political and legal fate contradicts the individualist principles of independence, self-determination, and self-government by exercise of non-negotiable rights.
 
-Decisions are applied according to level of power. One who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a death wish. Its persistence eventually obliges politicians to take it as a command.
+Decisions are applied to people according to their varying levels of power. One who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a death wish which eventually obliges politicians to take as a command.
 
 A centralized state poisons any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life.
 
 Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. The centralized design causes corruption, conspiracy, tyranny.
-
-How did it happen? The Founders made the old mistake of assuming a state must be centralized. Now we are captured by it. We must begin to conceive that there could be another kind of state.
 
 ### solution
 
@@ -50,17 +56,15 @@ To solve this problem, we need:
 
 #### form
 
-Now we can identify another kind of state. It just takes a little logic. Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
+Identifying another kind of state just takes a little logic. Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
 
-In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. (Rothbard)
+In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. (--Rothbard)
 
-Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes of that violate them; and the means of protecting them. They are simple and fit on one page. A four year-old can understand them. Traditional [Maxims of Law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) elaborate them. 
+Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. We once called them common sense. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent can remain useful.
 
-Once, we called them common sense.
+In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts with" (--Locke) is unowned and available for possession, especially land.
 
-In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts" (Locke) with is unowned and available for possession, especially land.
-
-Most penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain. (Rothbard)
+Most penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain. (--Rothbard)
 
 A state is called a state because it is _static_. It is the unchanging foundation, the constant condition of society. Which is peace. The state of society is peace. People cannot associate and make war on each other at the same time. So the state keeps the peace. It ends disturbances of the peace.
 
@@ -88,15 +92,15 @@ The strategy's first point is familiar. The second and third need explanation.
 
 ##### living power
 
-Freedom requires power. There are two kinds.
+Freedom requires power. Freemen are powerful. Slaves are powerless.
 
-One is the genuine, internal power: the power to live. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it. Anyone with it is irresistible, to admirers and the envious alike. 
+There are two kinds of power. One is internal, organic power: the power to live. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it. One who has it is irresistible—or left alone. 
 
-The other kind is simulated, external power arising mechanically from will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but comparatively weak. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
+The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
 
-We lost most of our living power with our health millennia ago when a global catastrophe caused mass-scale trauma. The natural means of healing from trauma is now known: deep, concentrated, extended rest in perfect darkness. Regaining living power, we will regain real, political, lawful freedom.
+We lost most of our living power with our health millennia ago when a global catastrophe caused mass-scale trauma. Assembling into large hierarchies was the only way to survive. But the natural means of healing from trauma is now known: deep, concentrated, extended rest in perfect darkness. Regaining living power, we will regain freedom. Real, political, lawful freedom.
 
-Exceeding intelligence and joy in living, also lost with trauma, return along with power.
+Exceeding intelligence and joy in living, also lost with trauma, return with power.
 
 ##### autonomous infrastructure
 
