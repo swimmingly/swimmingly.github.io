@@ -32,7 +32,7 @@ In effect, politics asks everyone a single question: freedom or slavery? Shall I
 
 ### analysis
 
-The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualist society is characterized by self-regulation; collectivist society, by centralized control. (--Rand)
+The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualism recognizes the existence and rights of the individual. Collectivism regards individuals as mere cells without rights in a larger collective being with political primacy. Individualist society is characterized by self-regulation, collectivist society, by centralized control. [^1]
 
 A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, these institutions comprise a society's state.
 
@@ -58,13 +58,13 @@ To solve this problem, we need:
 
 Identifying another kind of state just takes a little logic. Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
 
-In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. (--Rothbard)
+In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. [^2]
 
 Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. We once called them common sense. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent can remain useful.
 
-In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts with" (--Locke) is unowned and available for possession, especially land.
+In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts with" [^3] is unowned and available for possession, especially land.
 
-Most penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain. (--Rothbard)
+Most penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain. [^2]
 
 A state is called a state because it is _static_. It is the unchanging foundation, the constant condition of society. Which is peace. The state of society is peace. People cannot associate and make war on each other at the same time. So the state keeps the peace. It ends disturbances of the peace.
 
@@ -94,13 +94,15 @@ The strategy's first point is familiar. The second and third need explanation.
 
 Freedom requires power. Freemen are powerful. Slaves are powerless.
 
-There are two kinds of power. One is internal, organic power: the power to live. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it. One who has it is irresistible—or left alone. 
+There are two kinds of power. One is internal, biological power: the power to live. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible.
 
 The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
 
-We lost most of our living power with our health millennia ago when a global catastrophe caused mass-scale trauma. Assembling into large hierarchies was the only way to survive. But the natural means of healing from trauma is now known: deep, concentrated, extended rest in perfect darkness. Regaining living power, we will regain freedom. Real, political, lawful freedom.
+We lost most of our living power when a global catastrophe millennia ago caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
 
-Exceeding intelligence and joy in living, also lost with trauma, return with power.
+The natural means of healing from trauma is now known: deep, concentrated, extended rest in perfect darkness. Health, vitality, and power return. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return with power, compounding its influence.
+
+The weak mechanical system cannot suppress people like this. A handful of them is enough to turn the tide of the world, freeing billions to take care of themselves again.
 
 ##### autonomous infrastructure
 
@@ -110,18 +112,16 @@ So we will use our restored intelligence and power to replace centralized infras
 
 Society remains stable. The centralized state shrinks gradually as fewer people depend on it. Disclosure of its secrets will occur as people demonstrate capacity for truth.
 
-### attitude
+### conclusion
 
-Our attitude is equitable, not vengeful.
-
-We exercise care to ensure stability as things change. Others will naturally support what is better and more enjoyable. The mechanically powerful will reliniquish control when they see things remain under control.
-
-The system is fragile. It depends on complete control. Its commanding grip loosens with even a slight alteration of conditions.
+The system depends on complete control. Its commanding grip loosens with even a slight alteration of conditions.
 
 Most elites support centralized control for lack of an alternative. As decent ones switch to our alternative, others will lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
-
-### conclusion
 
 This is an individualist analysis, solution, and strategy to solve our problem. One can start small, alone or with others. It is cheap, rational, and quick. Properly understood and applied, it solves or enables solutions to all mass-scale problems going back over 10,000 years. It restores peace in the world and man's place in it.
 
 See [individualism](/other/individualism) for elaboration and full sources.
+
+[^1]: Ayn Rand
+[^2]: Murray Rothbard
+[^3]: John Locke
