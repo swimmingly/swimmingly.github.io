@@ -85,8 +85,8 @@ Natural government is always with us. It is obvious when we are well, obscure wh
 We recover natural government with a three-point, assymetric strategy:
 
 1. learn enough philosophy, law, and self-defence to function.
-2. recover personal power through healing from trauma through profound rest in [hygienic dark retreat](/).
-3. recover material independence through [autonomous infrastructure](./individualism#autonomous-infrastructure): off-grid, low-tech life support. [^4]
+2. recover personal power through healing from trauma through [_hygienic dark retreat_](/)
+3. recover material independence through _autonomous infrastructure_: off-grid, low-tech life support.
 
 An Individualist Party helps organize these activities for members so they may better lead their own lives. It does not run candidates for centralized leadership, court supporters, or even raise funds. Assymmetry means focusing on factors less controlled by the centralized system.
 
@@ -102,15 +102,15 @@ The other kind of power is external, mechanical power arising by will: disciplin
 
 We lost most of our living power when a global catastrophe millennia ago caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
 
-The natural means of healing from trauma is now known: deep, concentrated, extended rest in perfect darkness. Health, vitality, and power return. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return with power, compounding its influence.
+The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health, vitality, and power return. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return with power, compounding its influence.
 
 The weak mechanical system cannot suppress people like this. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
 
 ##### autonomous infrastructure
 
-Freedom requires material independence. But nearly everyone physically depends on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.
+Freedom requires material independence. But nearly everyone physically depends on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.[^4]
 
-So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills reinforce independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.
+So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills reinforce independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^5]
 
 Society remains stable. The centralized state shrinks gradually as fewer people depend on it.
 
@@ -127,4 +127,5 @@ See [individualism](/other/individualism) for elaboration and full sources.
 [^1]: Rand
 [^2]: Rothbard
 [^3]: Locke
-[^4]: Gupta, de Decker
+[^4]: Gupta
+[^5]: Gupta, de Decker
