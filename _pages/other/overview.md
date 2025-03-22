@@ -12,7 +12,7 @@ We need freedom to live, but we are captured. A universal mistake about governme
 
 ### mistake
 
-"The state is centralized." This is the mistake.
+"A state is centralized." This is the mistake.
 
 It is a mistake as old as civilization. Everyone has made it. The Ancients. Barbarian hordes. Philosophers, prophets, emperors, popes and kings. America's Founding Fathers. Conservatives and Progressives today. Capitalists, communists, fascists, socialists, gangs, theocrats. Anarchists, both communist and capitalist. Some want to build it up. Others want to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else. 
 
@@ -60,9 +60,11 @@ Identifying another kind of state just takes a little logic. Just as the collect
 
 In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. [^2]
 
-Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. We once called them common sense. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent can remain useful.
+Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent remains useful as well.
 
-In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts with" [^3] is unowned and available for possession, especially land.
+We need one idea about how to use force, not centralized control of it. Everyone holds everyone accountable. Everyone is available to keep the peace. One per 5,000 is insufficient and far too manipulable.
+
+In a distributed state, everyone that a criminal sees is a legal expert, soldier, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned and requires someone's permission to touch it. What no one has "mixed his efforts with" [^3] is unowned and available for possession, especially land. The Enclosure fraud is finished along with the nation state. 
 
 Most penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain. [^2]
 
@@ -86,9 +88,9 @@ We recover natural government with a three-point, assymetric strategy:
 2. recover personal power through healing from trauma through profound rest in [hygienic dark retreat](/).
 3. recover material independence through [autonomous infrastructure][./individualism#autonomous-infrastructure): off-grid, low-tech life support.
 
-An Individualist Party helps organize these activities for members so they may better lead their own lives. It does not run candidates for centralized leadership, court supporters, or even raise funds. Assymmetry means focusing on less controlled factors of the centralized system, not its well-protected ones.
+An Individualist Party helps organize these activities for members so they may better lead their own lives. It does not run candidates for centralized leadership, court supporters, or even raise funds. Assymmetry means focusing on factors less controlled by the centralized system.
 
-The strategy's first point is familiar. The second and third need explanation.
+The first point, study, is common. The second and third need explanation.
 
 ##### living power
 
