@@ -80,13 +80,13 @@ The second most common crime is harassment. Harassment is another's unwelcome co
 
 #### strategy
 
-Natural government is always with us. It is obvious when we are well, obscure when ill and dependent, as we have been for millennia. Fortunately, individualist distributed state can be derived by logic. It formalizes natural government, _evoking it_.
+Natural government is always with us. It is obvious when we are well, obscure when ill and dependent, as we have been for millennia. Fortunately, the idea of the individualist distributed state can be derived by logic. It formalizes natural government and _evokes it_.
 
 We recover natural government with a three-point, assymetric strategy:
 
 1. learn enough philosophy, law, and self-defence to function.
 2. recover personal power through healing from trauma through profound rest in [hygienic dark retreat](/).
-3. recover material independence through [autonomous infrastructure][./individualism#autonomous-infrastructure): off-grid, low-tech life support.
+3. recover material independence through [autonomous infrastructure](./individualism#autonomous-infrastructure): off-grid, low-tech life support. [^4]
 
 An Individualist Party helps organize these activities for members so they may better lead their own lives. It does not run candidates for centralized leadership, court supporters, or even raise funds. Assymmetry means focusing on factors less controlled by the centralized system.
 
@@ -104,26 +104,27 @@ We lost most of our living power when a global catastrophe millennia ago caused 
 
 The natural means of healing from trauma is now known: deep, concentrated, extended rest in perfect darkness. Health, vitality, and power return. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return with power, compounding its influence.
 
-The weak mechanical system cannot suppress people like this. A handful of them is enough to turn the tide of the world, freeing billions to take care of themselves again.
+The weak mechanical system cannot suppress people like this. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
 
 ##### autonomous infrastructure
 
-Freedom requires material independence. But we have physically depended on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.
+Freedom requires material independence. But nearly everyone physically depends on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.
 
-So we will use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills will reinforce independence. Likewise, we will replace the system's secondary services: money, education, medicine, etc.
+So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills reinforce independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.
 
-Society remains stable. The centralized state shrinks gradually as fewer people depend on it. Disclosure of its secrets will occur as people demonstrate capacity for truth.
+Society remains stable. The centralized state shrinks gradually as fewer people depend on it.
 
 ### conclusion
 
 The system depends on complete control. Its commanding grip loosens with even a slight alteration of conditions.
 
-Most elites support centralized control for lack of an alternative. As decent ones switch to our alternative, others will lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
+Most elites support centralized control for lack of an alternative. As decent ones switch to our alternative, others lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
 
 This is an individualist analysis, solution, and strategy to solve our problem. One can start small, alone or with others. It is cheap, rational, and quick. Properly understood and applied, it solves or enables solutions to all mass-scale problems going back over 10,000 years. It restores peace in the world and man's place in it.
 
 See [individualism](/other/individualism) for elaboration and full sources.
 
-[^1]: Ayn Rand
-[^2]: Murray Rothbard
-[^3]: John Locke
+[^1]: Rand
+[^2]: Rothbard
+[^3]: Locke
+[^4]: Gupta, de Decker
