@@ -96,7 +96,7 @@ The first point, study, is common. The second and third need explanation.
 
 Freedom requires power. Freemen are powerful. Slaves are powerless.
 
-There are two kinds of power. One is internal, biological power: the power to live. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible.
+There are two kinds of power. One is internal, biological power: the power to live. To get out of bed, take food, claim one's place in the world and defend it. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible.
 
 The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
 
