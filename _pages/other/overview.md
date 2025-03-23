@@ -100,7 +100,7 @@ There are two kinds of power. One is internal, biological power: the power to li
 
 The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
 
-We lost most of our living power when a global catastrophe millennia ago caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
+We lost most of our living power millennia ago when a global catastrophe caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
 
 The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health, vitality, and power return. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return with power, compounding its influence.
 
