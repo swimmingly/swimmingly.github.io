@@ -40,11 +40,11 @@ Here is America's problem. We have an individualist politics and way of life. Bu
 
 In a centralized state, everyone delegates his power to representatives by voting or submission. Delegates meet in central bodies to make decisions collectively for everyone. This mixing of political and legal fate contradicts the individualist principles of independence, self-determination, and self-government by exercise of non-negotiable rights.
 
-Decisions are applied to people according to their varying levels of power. One who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a death wish. Eventually it obliges politicians to take it as a command.
+Decisions are applied to people according to their varying levels of power. One who delegates his power sacrifices what he most needs to live. It is a contemptible act, rendering him subhuman and minimally powerful. It implies a wish for slavery and death. It obliges politicians to take it as a command. Monopolized, debt-based currency is an efficient means of executing it.
 
-A centralized state poisons any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life.
+A centralized state laces any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life.
 
-Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. The centralized design causes corruption, conspiracy, tyranny.
+Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. Centralization guarantees corruption, conspiracy, tyranny.
 
 ### solution
 
@@ -96,15 +96,15 @@ The first point, study, is common. The second and third need explanation.
 
 Freedom requires power. Freemen are powerful. Slaves are powerless.
 
-There are two kinds of power. One is internal, biological power: the power to live. To get out of bed, take food, claim one's place in the world and defend it. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible.
+There are two kinds of power. One is internal, biological power: the power to live. To get out of bed, take food, claim one's place in the world and defend it. It is a form of vitality arising from health. With extreme health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible.
 
 The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
 
 We lost most of our living power millennia ago when a global catastrophe caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
 
-The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health, vitality, and power return. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return with power, compounding its influence.
+The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health, vitality, and power return, magnified to _superheroic_ levels. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return, intensifying one's influence.
 
-The weak mechanical system cannot suppress people like this. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
+The world system, based on weak, mechanical power, cannot suppress people like this. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
 
 ##### autonomous infrastructure
 
