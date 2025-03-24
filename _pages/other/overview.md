@@ -32,7 +32,7 @@ In effect, politics asks everyone a single question: freedom or slavery? Shall I
 
 ### analysis
 
-The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualism recognizes the existence and rights of the individual. Collectivism regards individuals as mere cells without rights in a larger collective being with political primacy. Individualist society is characterized by self-regulation, collectivist society, by centralized control. [^1]
+The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualism recognizes the existence and rights of the individual. Collectivism regards individuals as mere cells without rights of a collective "organism" that has political primacy. Individualist society is characterized by self-regulation, collectivist society, by centralized control. [^1]
 
 A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, these institutions comprise a society's state.
 
@@ -102,7 +102,7 @@ The other kind of power is external, mechanical power arising by will: disciplin
 
 We lost most of our living power millennia ago when a global catastrophe caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
 
-The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health, vitality, and power return, magnified to _superheroic_ levels. Palpable presence and irresistible influence return. Exceeding intelligence and joy in living return, intensifying one's influence.
+The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return, and with them, power, genius, and joy, at _superheroic_ levels known only in legend. Palpable presence and irresistible influence result.
 
 The world system, based on weak, mechanical power, cannot suppress people like this. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
 
