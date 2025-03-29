@@ -18,7 +18,7 @@ It is a mistake as old as civilization. Everyone has made it. The Ancients. Barb
 
 In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: spread out to the individual level, with no central bodies. All it needs is an organizing principle.
 
-We begin this essay with politics, identifying its natural basis. We will examine the problems plaguing centralized states. Then will derive the logical solution of distribution and a strategy to apply it in a volatile world.
+We begin this essay with politics, identifying its natural basis. We will examine the problems plaguing centralized states. Then we will derive the logical solution of distribution and a strategy to apply it in a volatile world.
 
 ### politics
 
@@ -58,7 +58,9 @@ To solve this problem, we need:
 
 Identifying another kind of state just takes a little logic. Just as the collectivist form of government is a centralized state, the individualist form of government is a _distributed state_. 
 
-In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. [^2]
+In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. [^2] 
+
+Some consider this as anarchy due to absence of involuntary taxation and monopoly on force. But these are non-essential to a state. Legislation, defense, and adjudication, the essentials, remain, just in self-governed form. Together, they comprise a distributed state, an individualist form of government.
 
 Law in contracts is based on _precepts_: statements of laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent remains useful as well.
 
@@ -118,7 +120,7 @@ Society remains stable. The centralized state shrinks gradually as fewer people 
 
 The system depends on complete control. Its commanding grip loosens with even a slight alteration of conditions.
 
-Most elites support centralized control for lack of an alternative. As decent ones switch to our alternative, others lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
+Most elites support centralized control for lack of an alternative. As they switch to ours, others lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
 
 This is an individualist analysis, solution, and strategy to solve our problem. One can start small, alone or with others. It is cheap, rational, and quick. Properly understood and applied, it solves or enables solutions to all mass-scale problems going back over 10,000 years. It restores peace in the world and man's place in it.
 
