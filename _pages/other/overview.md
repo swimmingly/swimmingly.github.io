@@ -16,9 +16,9 @@ We need freedom to live, but we are captured. A universal mistake about governme
 
 It is a mistake as old as civilization. Everyone has made it. The Ancients. Barbarian hordes. Philosophers, prophets, emperors, popes and kings. America's Founding Fathers. Conservatives and Progressives today. Capitalists, communists, fascists, socialists, gangs, theocrats. Anarchists, both communist and capitalist. Some want to build it up. Others want to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else. 
 
-In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: spread out to the individual level, with no central bodies. All it needs is an organizing principle.
+In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: seated at the individual level, with no central bodies. It just needs an organizing principle, one like life itself, with ideas to discern and guide it, a feeling to motivate it, and actions to realize it. This essay relates these elements.
 
-We begin this essay with politics, identifying its natural basis. We will examine the problems plaguing centralized states. Then we will derive the logical solution of distribution and a strategy to apply it in a volatile world.
+We begin with politics, identifying its natural basis. We will examine the flaws of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
 
 ### politics
 
@@ -98,7 +98,7 @@ The first point, study, is common. The second and third need explanation.
 
 Freedom requires power. Freemen are powerful. Slaves are powerless.
 
-There are two kinds of power. One is internal, biological power: the power to live. To get out of bed, take food, claim one's place in the world and defend it. It is a form of vitality arising from health. With extreme health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible.
+There are two kinds of power. One is internal, biological power. It is the power to live: to get out of bed, to take food, to claim one's place in the world and to defend it. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible. It is calming.
 
 The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
 
@@ -106,11 +106,13 @@ We lost most of our living power millennia ago when a global catastrophe caused 
 
 The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return, and with them, power, genius, and joy, at _superheroic_ levels known only in legend. Palpable presence and irresistible influence result.
 
-The world system, based on weak, mechanical power, cannot suppress people like this. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
+The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
+
+Living power is the main element of the organizing principle of an individualist distributed state, the felt element. The preceding thoughts and the following actions complete it.
 
 ##### autonomous infrastructure
 
-Freedom requires material independence. But nearly everyone physically depends on state-controlled centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.[^4]
+Freedom requires material independence. But nearly everyone physically depends on state-controlled, centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.[^4]
 
 So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills reinforce independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^5]
 
