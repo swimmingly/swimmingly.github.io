@@ -26,7 +26,7 @@ Philosophy describes the fundamental facts of reality: its nature, how it is kno
 
 One fact of life is so important, a whole branch of philosophy is needed to handle it: man's great and terrible power to use physical force against others. _Politics_ determines, by moral sanction, how force is to be used in society.
 
-If used in defense, force frees people to live in peace, prosperity, and harmony. If in offense, it deceives, robs, enslaves, and murders people and destroys the world. In defense achieves universal justice, in offense, universal crime.
+If used in defense, force frees people to live in peace, prosperity, and harmony. If in offense, it deceives, robs, enslaves, and murders people and destroys the world. Used in defense, it achieves universal justice; in offense, universal crime.
 
 In effect, politics asks everyone a single question: freedom or slavery? Shall I live by right to life, liberty, and property—my body, movements, and possessions? Or shall I exist by permission, under legal compulsion, to be dispossessed, enslaved, and killed at the will of others?
 
