@@ -10,15 +10,19 @@ navnext: individualism
 
 We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall, most obviously here in America. This essay opens the cage.
 
+At least, it does for the pure, truth-seeking individualist it is written for, be you a stubborn teenager, Objectivist or Ayn Rand fan, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, undisillusioned admirer of America, etc. That's a lot of people. But I only need 10 of you to really get it and to write me.
+
+If you believe individualism means living separately or showing you are different from others, or that it must be tempered by duty, sacrifice, and submission to group demands, etc, this is not for you.
+
 ### mistake
 
-"A state is centralized." This is the mistake.
+Here is the mistake: "A state is centralized."
 
-It is a mistake as old as civilization. Everyone has made it. The Ancients. Barbarian hordes. Philosophers, prophets, emperors, popes and kings. America's Founding Fathers. Conservatives and Progressives today. Capitalists, communists, fascists, socialists, gangs, theocrats. Anarchists, both communist and capitalist. Some want to build it up. Others want to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else. 
+It is a mistake as old as civilization. Everyone has made it. The Ancients. Barbarian hordes. Philosophers, prophets, emperors, popes and kings. America's Founding Fathers. Conservatives and Progressives today. Capitalists, communists, fascists, socialists, gangs, theocrats. Anarchists of every stripe. Some want to build it up. Others want to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else. 
 
-In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: seated at the individual level, with no central bodies. It just needs an organizing principle, one like life itself, with ideas to discern and guide it, a feeling to motivate it, and actions to realize it. This essay relates these elements.
+In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: seated at the individual level, with no central bodies. It just needs an organizing principle. with guiding ideas, motivating feeling, and effective actions. This essay relates these elements.
 
-We begin with politics, identifying its natural basis. We will examine the flaws of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
+We begin with politics, identifying its natural basis. We will examine the problems of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
 
 ### politics
 
@@ -26,13 +30,13 @@ Philosophy describes the fundamental facts of reality: its nature, how it is kno
 
 One fact of life is so important, a whole branch of philosophy is needed to handle it: man's great and terrible power to use physical force against others. _Politics_ determines, by moral sanction, how force is to be used in society.
 
-If used in defense, force frees people to live in peace, prosperity, and harmony. If in offense, it deceives, robs, enslaves, and murders people and destroys the world. Used in defense, it achieves universal justice; in offense, universal crime.
+If used in defense, force frees people to live in peace, prosperity, and harmony. It achieves universal justice. If in offense, it deceives, robs, enslaves, and murders people and destroys the world. It achieves universal crime.
 
 In effect, politics asks everyone a single question: freedom or slavery? Shall I live by right to life, liberty, and property—my body, movements, and possessions? Or shall I exist by permission, under legal compulsion, to be dispossessed, enslaved, and killed at the will of others?
 
 ### analysis
 
-The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualism recognizes the existence and rights of the individual. Collectivism regards individuals as mere cells without rights of a collective "organism" that has political primacy. Individualist society is characterized by self-regulation, collectivist society, by centralized control. [^1]
+The politics of _individualism_ answers, "Freedom"; of _collectivism_, "Slavery". Individualism is realistic, rational, egoist (self-preserving), liberating, and beautiful. Collectivism is idealistic (fantastical, nihilistic), mystical (irrational), altruist (self-sacrificing, suicidal), tyrannical, and ugly. Individualism recognizes the existence and rights of the individual. Collectivism regards individuals as rightless cells of a collective "organism" that has political primacy. Individualist society is characterized by self-regulation; collectivist society, by centralized control. [^1]
 
 A society controls (governs) the use of force within it through institutions of law, defense, and court. _Whatever forms they take_, these institutions comprise a society's state.
 
@@ -106,7 +110,7 @@ We lost most of our living power millennia ago when a global catastrophe caused 
 
 The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return, and with them, power, genius, and joy, at _superheroic_ levels known only in legend. Palpable presence and irresistible influence result.
 
-The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. A handful is enough to turn the tide of the world, freeing billions to take care of themselves again.
+The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. Ten can turn the tide of the world, freeing billions to take care of themselves again.
 
 Living power is the main element of the organizing principle of an individualist distributed state, the felt element. The preceding thoughts and the following actions complete it.
 
