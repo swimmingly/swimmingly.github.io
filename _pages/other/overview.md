@@ -8,7 +8,7 @@ navnext: individualism
 
 ### captured
 
-We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall. It is clearest here in America. This essay opens the cage.
+We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall, most obviously here in America. This essay opens the cage.
 
 ### mistake
 
