@@ -10,7 +10,7 @@ navnext: individualism
 
 We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall, most obviously here in America. This essay opens the cage.
 
-At least, it does for the pure, truth-seeking individualist it is written for, be you a stubborn teenager, Objectivist or Ayn Rand fan, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, undisillusioned admirer of America, etc. That's a lot of people. But I only need 10 of you to really get it and to write me.
+At least, it does for the pure, truth-seeking, peacekeeping and freedom-loving individualist it is written for, be you a stubborn teenager, Ayn Rand fan, Objectivist, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, undisillusioned admirer of America, etc. That's a lot of people. But I only need nine of you to respond.
 
 If you believe individualism means living separately or showing you are different from others, or that it must be tempered by duty, sacrifice, and submission to group demands, etc, this is not for you.
 
