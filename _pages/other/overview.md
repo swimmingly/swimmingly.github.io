@@ -10,7 +10,7 @@ navnext: individualism
 
 We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall, most obviously here in America. This essay opens the cage.
 
-At least, it does for the pure, truth-seeking, peacekeeping and freedom-loving individualist it is written for, be you a stubborn teenager, Ayn Rand fan, Objectivist, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, undisillusioned admirer of America, etc. That's a lot of people. But I only need nine of you to respond.
+At least, it does for the pure, truth-seeking, peacekeeping and freedom-loving individualist it is written for, be you a stubborn teenager, Ayn Rand fan, Objectivist, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, undisillusioned admirer of America, etc. That's a lot of people. But only nine of you need respond.
 
 If you believe individualism means living separately or showing you are different from others, or that it must be tempered by duty, sacrifice, and submission to group demands, etc, this is not for you.
 
@@ -20,9 +20,9 @@ Here is the mistake: "A state is centralized."
 
 It is a mistake as old as civilization. Everyone has made it. The Ancients. Barbarian hordes. Philosophers, prophets, emperors, popes and kings. America's Founding Fathers. Conservatives and Progressives today. Capitalists, communists, fascists, socialists, gangs, theocrats. Anarchists of every stripe. Some want to build it up. Others want to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else. 
 
-In fact, a state is a state. It can be centralized, as it has been for a long time. But a state could also be _distributed_: seated at the individual level, with no central bodies. It just needs an organizing principle. with guiding ideas, motivating feeling, and effective actions. This essay relates these elements.
+In fact, a state is a state. Centralization is just an organizing principle. A state could also be _distributed_: seated at the individual level, with no central bodies. This principle organizes  guiding ideas, a motivating feeling, and effective actions into a different kind of state.
 
-We begin with politics, identifying its natural basis. We will examine the problems of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
+This essay describes the distributed state and these, its elements. We begin with politics, identifying its natural basis. We will examine the problems of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
 
 ### politics
 
@@ -92,7 +92,7 @@ We recover natural government with a three-point, assymetric strategy:
 
 1. learn enough philosophy, law, and self-defence to function.
 2. recover personal power through healing from trauma through [_hygienic dark retreat_](/)
-3. recover material independence through _autonomous infrastructure_: off-grid, low-tech life support.
+3. recover material independence through _autonomous infrastructure_: off-grid and low-tech
 
 An Individualist Party helps organize these activities for members so they may better lead their own lives. It does not run candidates for centralized leadership, court supporters, or even raise funds. Assymmetry means focusing on factors less controlled by the centralized system.
 
@@ -112,7 +112,7 @@ The natural means of healing from trauma is now known: deep, concentrated, exten
 
 The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. Ten can turn the tide of the world, freeing billions to take care of themselves again.
 
-Living power is the main element of the organizing principle of an individualist distributed state, the felt element. The preceding thoughts and the following actions complete it.
+Living power is the felt element of the distributive organizing principle. The preceding ideas and the following actions complete it.
 
 ##### autonomous infrastructure
 
@@ -120,7 +120,7 @@ Freedom requires material independence. But nearly everyone physically depends o
 
 So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills reinforce independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^5]
 
-Society remains stable. The centralized state shrinks gradually as fewer people depend on it.
+The centralized state shrinks gradually as fewer people depend on it. Society remains stable through the transition.
 
 ### conclusion
 
