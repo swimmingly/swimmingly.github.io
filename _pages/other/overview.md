@@ -10,7 +10,7 @@ navnext: individualism
 
 We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall, most obviously here in America. This essay opens the cage.
 
-At least, it can for the freedom-loving, truth-seeking individualist it is written for, be you a stubborn teenager, Ayn Rand fan, Objectivist, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, admirer of America, etc.
+At least, it can for the freedom-loving, truth-seeking individualist it is written for, be you an Ayn Rand fan, Objectivist, libertarian, anarcho-capitalist, American patriot, disillusioned liberal, precocious conservative, admirer of America, or stubborn teenager, etc.
 
 If you assume individualism means showing you are different from others or living in isolation; or that it must be tempered by duty, sacrifice, and submission to group demands, etc, this is not for you.
 
@@ -66,9 +66,9 @@ Identifying another kind of state only takes a little logic. Just as the collect
 
 In a distributed state, everyone keeps his power, delegating none of it. He makes his own laws in the form of contracts, defends himself, and settles his own disputes. He hires and fires legal counsel, guards, and arbiters to help him as needed. Insurance companies combine these services with coverage and help coordinate large-scale defense. [^2] 
 
-Some consider this to be anarchy due to the absence of involuntary taxation and monopoly on force. But these are non-essential to a state. Functions are essential: legislation, defense, and adjudication. And these remain in self-governed form. Together, they comprise a distributed state, an individualist form of government.
+Some consider this to be anarchy due to the absence of involuntary taxation or monopoly on force. But these are non-essential attributes—and optional. Function is essential: legislation, defense, and adjudication. These remain in self-governed form. Together, they comprise a distributed state, an individualist form of government.
 
-Law in contracts is based on _precepts_: statements of inherent laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent remains useful as well.
+Law in contracts is based on the _precepts_: a brief collection of statements of inherent laws of man's social nature. They regard individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them. They are open source, simple, and fit on one page. A four year-old can understand them. Traditional [maxims of law](https://famguardian.org/TaxFreedom/LegalRef/MaximsOfLaw.htm) embody or elaborate them. Anglo-American legal precedent remains useful as well.
 
 We need one idea about how to use force, not centralized control of it. Everyone holds everyone accountable. Everyone is available to keep the peace. One in 200 people is insufficient and manipulable.
 
@@ -88,7 +88,7 @@ The second most common crime is harassment. Harassment is another's unwelcome co
 
 #### strategy
 
-Built into man's conscience is a natural government. It is always with us. But it becomes muted when we are ill and dependent, as we have been for millennia. Fortunately, the idea of the individualist distributed state can be derived by logic. It formalizes natural government and resurrects it.
+Built into man's conscience and sociality is natural government. It is always with us. But it becomes muted when we are ill and dependent, as we have been for millennia. Fortunately, the idea of the individualist distributed state can be derived by logic. It formalizes natural government and resurrects it.
 
 We recover natural government with a three-point, assymetric strategy:
 
@@ -114,19 +114,19 @@ The natural means of healing from trauma is now known: deep, concentrated, exten
 
 The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. Ten can turn the tide of the world, freeing billions to take care of themselves again.
 
-Living power is the felt element of the distributive organizing principle. The preceding ideas and the following actions complete it.
+Living power is the felt element organized by the distributive principle. The preceding ideas and the following actions are the other main ones.
 
 ##### autonomous infrastructure
 
 Freedom requires material independence. But nearly everyone physically depends on state-controlled, centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.[^4]
 
-So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. New abilities, knowledge, and skills reinforce independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^5]
+So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. In general, restored biological capacity replaces artifacts and action, reinforcing independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^5]
 
 The centralized state shrinks gradually as fewer people depend on it. Society remains stable through the transition.
 
 ### conclusion
 
-The system depends on complete control. Its commanding grip loosens with even a slight alteration of conditions.
+The system is fragile and depends on complete control. Its commanding grip loosens with even a slight unplanned alteration of conditions.
 
 Most elites support centralized control for lack of an alternative. As they switch to ours, others lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
 
@@ -135,7 +135,7 @@ This is an individualist analysis, solution, and strategy to solve our problem. 
 See [individualism](/other/individualism) for elaboration and full sources.
 
 [^1]: Rand
-[^2]: Rothbard
+[^2]: Rothbard, Tannehills
 [^3]: Locke
 [^4]: Gupta
 [^5]: Gupta, de Decker
