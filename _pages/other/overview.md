@@ -110,7 +110,7 @@ The other kind of power is external, mechanical power arising by will: disciplin
 
 We lost most of our living power millennia ago when a global catastrophe caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
 
-The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return, and with them, power, genius, and joy, at _superheroic_ levels known only in legend. Palpable presence and irresistible influence result.
+The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return, and with them, power, genius, and joy, at _superheroic_ levels known only in legend. Palpable personal presence and irresistible influence result.
 
 The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. Ten can turn the tide of the world, freeing billions to take care of themselves again.
 
