@@ -112,15 +112,15 @@ We lost most of our living power millennia ago when a global catastrophe caused 
 
 The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return, and with them, power, genius, and joy, at _superheroic_ levels known only in legend. Palpable personal presence and irresistible influence result.
 
-The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. Ten can turn the tide of the world, freeing billions to take care of themselves again.
+The world system, based on weak, mechanical power, cannot suppress people like this. Indeed, it awaits them, too. Ten can turn the tide of the world, freeing billions to take care of themselves again.[^4]
 
 Living power is the felt element organized by the distributive principle. The preceding ideas and the following actions are the other main ones.
 
 ##### autonomous infrastructure
 
-Freedom requires material independence. But nearly everyone physically depends on state-controlled, centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.[^4]
+Freedom requires material independence. But nearly everyone physically depends on state-controlled, centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste, electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its life-and-death power over us.[^5]
 
-So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. In general, restored biological capacity replaces artifacts and action, reinforcing independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^5]
+So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. In general, restored biological capacity replaces artifacts and action, reinforcing independence. Likewise, we replace the system's secondary services: money, education, medicine, etc.[^6]
 
 The centralized state shrinks gradually as fewer people depend on it. Society remains stable through the transition.
 
@@ -137,5 +137,6 @@ See [individualism](/other/individualism) for elaboration and full sources.
 [^1]: Rand
 [^2]: Rothbard, Tannehills
 [^3]: Locke
-[^4]: Gupta
-[^5]: Gupta, de Decker
+[^4]: Durham
+[^5]: Gupta
+[^6]: Gupta, de Decker
