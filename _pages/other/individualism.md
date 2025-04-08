@@ -228,13 +228,17 @@ Besides books, normal relations between people show it as well. Every moment we 
 
 #### criticism
 
-Robert Heinlein has great flashes of insight and humor. He is not as deep as Rand or the Tannehills. His errors aren't much different than theirs. Mostly, I remember the impressions of lunar freedom, the fun physics, and the logic of events.
+Robert Heinlein has great flashes of insight and humor. He is not as deep as Rand or the Tannehills. His errors aren't much different than theirs. But they don't matter as much. Mostly, I remember the impressions of freedom on the moon, the fun physics and their occasional political implications, and the fun logic of events. Heinlein is fun and smart as a whip.
 
-The Tannehills' book is a detailed development of Murray Rothbard's ideas into a practical solution. Like him, they only erred in saying that non-centralized commercial provision of state services implies the absence of a government or state. No, it just means the absence of a centralized state. The state still exists, distributed among the entire population. Its chambers are dinner tables and ordinary offices, not capitol buildings, palaces, and courts. In Ayn Rand's terms, let us avoid being anti-conceptual, concrete-bound "missing links" in this matter.
+The Tannehills' book is a detailed development of Murray Rothbard's anarcho-capitalist ideas into a practical solution. Like him, they erred in saying that non-centralized commercial provision of state services means the absence of government or a state. No, it just means the absence of a centralized state. The state still exists, but distributed among the entire population. Its chambers are dinner tables and ordinary offices, not capitol buildings, palaces, and courts. In Ayn Rand's terms, let us avoid being anti-conceptual, concrete-bound "missing links" in this matter.
 
-Ayn Rand erred with the Founders and anarchists alike (and nearly everyone throughout civilized history) in assuming a state is necessarily centralized. Its monopoly on the rightful use of force logically follows, and she affirmed it. Distribution renders the issue moot. It obviates the false alternative Rothbard and Rand pose.
+Ayn Rand erred with the Founders and anarchists alike (and nearly everyone throughout civilized history) in assuming a state is necessarily centralized. Its monopoly on the rightful use of force logically follows, and she affirmed it. 
 
-But she was right in asserting the political nature of man, his corresponding need for a state, and for lawful control of its use of force. Man possesses the faculty of choice. He can err dangerously or do evil. He needs principles to guide his action. Or he must be stopped by force according to those principles. Whoever does this, in whatever capacity, and under whatever circumstances, defends the state of man. No assembly required.
+We do not need that. We need one idea about how force is to be used: defensively. Then standards can develop, as in all other industries and fields of endeavor, along with referees. Distribution resolves the false alternative between Rothbard and Rand.
+
+By the way, the Tannehills dispense with her fear of wars between competing security companies in a few paragraphs, showing how they actually increase the peace. 
+
+Ayn Rand was right in asserting the political nature of man and for lawful control of his use of force. Man possesses the faculty of choice. He needs principles to guide his action. He can err dangerously or do evil. Then must be stopped by force and judged according to the principles. This is the activity of a state. He needs a state. He has a state. With man, the state is, just like his arm or brain.
 
 To deny what a thing is is to deny _that_ it is. Its destruction logically follows. To deny the state is to deny man's political nature and thus to destroy him. To eliminate the state, an ineradicable fact of human society, logically requires politically motivated force, ie, state action. This disarms and demoralizes everyone, attracting totalitarian dictatorship. 
 
@@ -249,11 +253,11 @@ In truth, people deny the state out of metaphysical suffering. Follow the logic:
 Denial of the state comes from denial of man's political nature  
 from denial of his social nature,  
 from social discomfort,  
-from self-hatred,  
 from personal discomfort,  
+from self-hatred,  
 from chronic, insoluble personal powerlessness, failure, and pain, both physical and psychical.
 
-The problem is not the state—the social embodiment of man's political nature. The problem is a _centralized_ state arising from mass-scale unhealed trauma and the resulting desperation, confusion, and personal dysfunction. The solution is the distributed state arising from logic and personal restoration.
+The problem is not the state—the social embodiment of man's political nature. The problem is a _centralized_ state arising from mass-scale unhealed trauma and the resulting desperation, confusion, and personal dysfunction. The solution is the distributed state arising from logic and personal restoration. 
 
 This is the way out.
 
@@ -305,15 +309,21 @@ Freedom is the quality of a society that stands against the initiation of force 
 
 #### political types
 
+Here is a scale of political types from good to bad. It is a mixture of theories, social organizations, and forms of government.
+
 - individualism
-	- pure: band society
-	- civilized: capitalism 
-	- semi/pseudo: conservatism, anarcho-capitalism, voluntarism, agorism
+	- perfect: ?
+	- pure: band society*
+	- close: individualist distributed state
+	- near: capitalism, tribe*
+	- weak/semi/pseudo: anarcho-capitalism, voluntarism, agorism, 
 - collectivism  
-	- perfect: anarchy
+	- weak: chiefdom*, republic, conservatism, democracy, Satanism
+	- near: socialism, fascism, monarchy, Islam, Catholicism
 	- pure: communism
-	- near: fascism, monarchy, Islam, Catholicism
-	- weak: socialism, democracy, republic, Satanism, tribalism
+	- perfect: anarchy
+
+* See [Primitive Social Organization](https://libkey.io/libraries/1809/articles/596068491/full-text-file?utm_source=api_2375), Elman Service. Also see [Stone Age Economics](https://archive.org/details/StoneAgeEconomics_201611), Marshall Sahlins.
 
 #### anti-anarchy
 
@@ -395,6 +405,8 @@ The need for security does not keep the centralized state in place. Security is 
 Centralized infrastructure is the real stronghold of the centralized state, a massive and immovable anchor, literally and figuratively. It is extremely hard and expensive to provide. No one goes to all that trouble and lets those who depend on it do anything but support the political structure it depends on. Leviathan's biggest function is to protect, not us, but its ultra-grandiose monuments of engineering, including the market for them. Vinay Gupta explains this in his riveting talk, [Infrastructure for Anarchists](http://vinay.howtolivewiki.com/blog/global/infrastructure_for_anarchists_1155-1155)
 
 Military strategy always includes destroying an enemy's supply chains. Infrastructure is centralized precisely to maintain control over us slaves. It is simply warfare. 
+
+This nightmare actually has a valid reason. Control _should_ be exercised all the time everywhere. If the control is centralized, then it must be embedded in every aspect of our lives. It has driven us to develop and accept the need for smart technology and surveillance everywhere. The individualist distributed state provides an even greater degree of control _by the individuals concerned_. The result is absolute government, privacy, justice by absolute respect for rights of everyone, everywhere, all the time. It's an idea to make any control freak go into fits of pleasure.
 
 Freedom requires autonomous infrastructure. Autonomous means not just off-grid, but simple, minimal, cheap, durable, maintainable, self-replaceable or attainable without re-enslavement, and self-eliminating if possible. It goes beyond the expensive, complicated solar and wind installations that most suppliers want to sell, for example.
 
