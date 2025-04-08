@@ -323,7 +323,7 @@ Here is a scale of political types from good to bad. It is a mixture of theories
 	- pure: communism
 	- perfect: anarchy
 
-* See [Primitive Social Organization](https://libkey.io/libraries/1809/articles/596068491/full-text-file?utm_source=api_2375), Elman Service. Also see [Stone Age Economics](https://archive.org/details/StoneAgeEconomics_201611), Marshall Sahlins.
+\* See [Primitive Social Organization](https://libkey.io/libraries/1809/articles/596068491/full-text-file?utm_source=api_2375), Elman Service. Also see [Stone Age Economics](https://archive.org/details/StoneAgeEconomics_201611), Marshall Sahlins.
 
 #### anti-anarchy
 
