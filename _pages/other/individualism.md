@@ -309,19 +309,19 @@ Freedom is the quality of a society that stands against the initiation of force 
 
 #### political types
 
-Here is a scale of political types from good to bad. It is a mixture of theories, social organizations, and forms of government.
+Here is a scale of political types from good to bad. It is a mixture of political theories, forms of government, and social organizations.
 
 - individualism
 	- perfect: ?
 	- pure: band society*
 	- close: individualist distributed state
-	- near: capitalism, tribe*
-	- weak/semi/pseudo: anarcho-capitalism, voluntarism, agorism, 
+	- near: tribe*, capitalism
+	- weak/semi/pseudo: anarcho-capitalism, voluntarism, agorism
 - collectivism  
-	- weak: chiefdom*, republic, conservatism, democracy, Satanism
-	- near: socialism, fascism, monarchy, Islam, Catholicism
-	- pure: communism
-	- perfect: anarchy
+	- weak: chiefdom*, republic, monarchy, conservatism, liberalism
+	- near: democracy, socialism, fascism, Satanism, Islam, Catholicism (Revelations 19:2 "great whore")
+	- pure: communism (mass death)
+	- perfect: anarchy (annihilation)
 
 \* See [Primitive Social Organization](https://libkey.io/libraries/1809/articles/596068491/full-text-file?utm_source=api_2375), Elman Service. Also see [Stone Age Economics](https://archive.org/details/StoneAgeEconomics_201611), Marshall Sahlins.
 
