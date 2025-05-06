@@ -6,23 +6,19 @@ permalink: /other/overview/
 navnext: individualism
 ---
 
-### captured
+### captive
 
-We need freedom to live, but we are captured. A universal mistake about government holds the world in thrall, most obviously here in America. This essay opens the cage.
-
-It is written for those who seek truth, freedom, and peace in order to live full lives, ie, individualists. It is not for those who believe individualism means merely being different from others or living in isolation, or that it must be tempered by duty, sacrifice, and submission to group demands.
-
-This essay is intended to provide words for those who recognize what it describes, not to convince those who do not.
+We need freedom to live. But a universal mistake about government holds us captive. This essay shows how to escape. It explains how to reverse the conditions in which we made the mistake in the first place.
 
 ### mistake
 
 Here is the mistake: "A state is centralized."
 
-It is a mistake as old as civilization. Everyone has made it, from Ancients to Moderns, kings to anarchists. Some want to build it up, others, to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else.
+This mistaken assumption is as old as civilization. Everyone has made it, from Ancients to Moderns, kings to anarchists. Some want to build it up, others, to tear it down. But they all agree: a state _is_ a centralized state and can be nothing else.
 
 Actually, a state is a state. Centralization is just one possible organizing principle. A state could also be _distributed_: seated at the individual level, with no central bodies or delegation of power.
 
-This essay describes the distributed state and its elements: thought, feeling, action. We will begin with politics, identifying its natural basis. We will examine the fatal problems of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
+This essay describes the distributed state and its elements of thought, feeling, and action. We will begin with politics, identifying its natural basis. We will examine the fatal problems of centralized states. Then we will derive the solution of distribution and a strategy to apply it in a volatile world.
 
 ### politics
 
@@ -53,7 +49,7 @@ This mixing of political and legal fate contradicts the individualist principles
 
 It also undermines the principle of equality before the law. One who delegates his power gives away his most precious value. It decreases his power and renders him less than a man, a non-equal. Collective decisions bind him disproportionately and unfavorably. Delegation is a contemptible act. It implies a wish for slavery and death and, ultimately, obliges politicians to fulfill this wish. (Historically, monopolized, debt-based currency, with its dire consequences, has neatly served this purpose.)
 
-A centralized state laces any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life.
+A centralized state laces any individualist ideas it handles with collectivism. The poison accumulates, ultimately killing the individualist core of the way of life. It damages its people and keeps them dependent on it.
 
 Small and set apart, a centralized state is a single point of attack on an entire population. Psychopathic and increasingly bold collectivists take advantage of it. Centralization necessitates corruption, conspiracy, tyranny. 
 
@@ -69,7 +65,9 @@ To solve this problem, we need:
 
 Identifying another kind of state only takes a little logic. The collectivist form of government is a centralized state. It mirrors the idea of man as a particle in a blob.
 
-The opposite, individualist form of government would be the _distributed state_. It mirrors the fact of man's separate, distributed nature. 
+The opposite, individualist form of government would be the _distributed state_. It mirrors the fact of man's separate, distributed nature. It formalizes the natural government of a society: the simple actions people take to keep the peace in it. It is the real and living state eternally among us, the great political secret invisible till now, which we can finally discern and recognize.
+
+![diagram: system types](/img/plan/image/system.png)
 
 The distributed state retains the essential functions of government: legislation, defense, and adjudication, but in self-governed form. Everyone keeps his power, not delegates it. He makes his own laws in the form of contracts. He defends himself and settles his own disputes.
 
@@ -77,9 +75,9 @@ He gets help as needed from others—friends, family, neighbors—and looks out 
 
 Contracts quickly standardize and nest. Insurance companies combine these services with coverage and help coordinate large-scale defense. All these individuals and voluntary groups together comprise a distributed state, an individualist form of government.[^2]
 
-Anarcho-capitalists gave us this idea. They consider it anarchy due to the absence of involuntary taxation and monopoly on force. Objectivist capitalists have taken them at their word. But funding and division of labor are non-essential (non-defining) characteristics. They are operational issues and optional. Function is essential.
+Anarcho-capitalists gave us this idea. But they do not consider it a state due to the absence of involuntary taxation and monopoly on force. Objectivist capitalists have taken them at their word. But funding and division of labor are non-essential (non-defining) characteristics of a state. They are operational issues and optional. Function is essential.
 
-Identifying this arrangement as a state and not merely a set of market actors meeting demand and coordinated by price connects it to philosophy and history. It becomes approachable to political thinkers and something to take seriously. People in it can connect to it and to each other imaginatively, morally, and emotionally. A system of government needs this context to endure.
+Identifying this arrangement as a state, not just a set of market actors meeting demand and coordinated by price, connects it to philosophy and history. It becomes approachable to political thinkers and something to take seriously. People in it can connect to it and to each other imaginatively, morally, and emotionally. A system of government needs this context to endure.
 
 In a distributed state, law is based on _precepts_: a brief collection of statements of man's nature and social nature. They regard the philosophy of individual rights to life, liberty, and property; the crimes that violate them; and the means of protecting them.
 
@@ -89,9 +87,9 @@ The precepts are matter of fact. They state how things _are_ with man, whether a
 
 In a distributed state, we have a common idea about how to use force, not centralized control of it. Virtually everyone holds everyone accountable. Virtually everyone is vigilant and available to keep the peace.
 
-In a distributed state, everyone a criminal sees is a legal expert, warrior, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned, requiring someone's permission to touch it.
+In a distributed state, everyone a criminal sees is a legal expert, warrior, and judge. Every property line is a guarded border. Every building is a castle. Every worked-upon thing is owned, requiring someone's permission to touch it.[^3]
 
-That which no one has "mixed his efforts with"[^3] is unowned and available for the taking, especially land. The fraud of the Enclosure Laws, which led to collective ownership of unused land, is finished, along with the nation states it enabled. 
+That which no one has "mixed his efforts with"[^4] is unowned and available for the taking, especially land. The fraud of the Enclosure Laws, which led to collective ownership of unused land, is finished, along with the nation states it enabled. 
 
 All penalties for crime are monetary, paid to injured parties and adjudicators. Dangerous criminals are confined non-punitively. They work to cover their costs and have opportunities to rehabilitate and retrain.[^2]
 
@@ -107,12 +105,12 @@ The second most common crime is harassment. Harassment is another's unwelcome co
 
 #### strategy
 
-Built into man's conscience and sociality is natural government. It is always with us. But it becomes muted when we are ill and dependent, as we have been for millennia. Fortunately, the idea of the individualist distributed state can be derived by logic. It formalizes natural government and invokes it.
+Built into man's conscience and sociality is natural government. It is always with us. But it becomes muted when we are ill and dependent, as we have been for millennia in centralized states. Fortunately, the idea of the individualist distributed state can be derived by logic. It formalizes natural government and invokes it.
 
 We recover natural government with a three-point, assymetric strategy:
 
-1. learn enough philosophy, law, and self-defence to function.
-2. recover personal power through healing from trauma through [_hygienic dark retreat_](/)
+1. learn enough philosophy, law[^5], and self-defence to function.
+2. recover personal, _living_ power through healing from trauma through [_hygienic dark retreat_](/)
 3. recover material independence through _autonomous infrastructure_: off-grid and low-tech
 
 An Individualist Party helps organize these activities for members so they may better lead their own lives. It is self-supporting. It does not run candidates for centralized leadership or try to influence centralized policy. Assymmetry means focusing on factors the centralized system has difficulty controlling.
@@ -121,25 +119,25 @@ The first strategic point, learning, is common. The second and third need explan
 
 ##### living power
 
-Freedom requires power. Freemen are powerful. Slaves are powerless.
+Freedom requires power. A freeman is powerful, a slave, powerless.
 
-There are two kinds of power. One is internal, biological power. It is the power to live: to get out of bed, to take food, to claim one's place in the world and to defend it. It is a form of vitality arising from health. Living power is deep, strong, and palpable. Everyone is short of it and desperate for it, tyrants most of all. One who has it is irresistible. It is calming.
+There are two kinds of political power. The commonly understood kind is external, mechanical power arising by will: discipline, military, popularity, money, technology, and propaganda. Mechanical power is widely available but weak. It must be concentrated in few hands to work. It imbalances society and inspires awe or fear.
 
-The other kind of power is external, mechanical power arising by will: discipline, popularity, propaganda, money, technology, and military. Mechanical power is widely available but weak compared to living power. It must be concentrated in few hands to work. So it imbalances society and inspires awe or fear.
+The rarer, less understood kind is personal, internal, biological power. It is the power to live: to get out of bed, to take food, to claim one's place in the world and to defend it. It is a form of vitality arising from health. Living power is deep, strong, and palpable. It is calming. Anyone who has it is irresistible. Virtually everyone today is short of it and desperate for it, tyrants most of all.
 
-We lost most of our living power millennia ago when a global catastrophe caused mass-scale trauma. Mechanical power became stronger. Assembling into large hierarchical societies was the only way to survive.
+We lost most of our living power millennia ago when a global catastrophe caused mass-scale trauma and mass psychosis. Mechanical power became stronger than living power. Assembling into large hierarchical societies was the only way to survive. But such social organization retraumatizes us. It perpetuates individual incapacity, dependence, and poor thinking, leading to mistaken assumptions.
 
-The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return. With them come joy, power, and genius at levels known only in legend. Palpable personal presence and irresistible influence result. Responsibility is restored.[^4]
+The natural means of healing from trauma is now known: deep, concentrated, extended rest in total darkness. Health and vitality return. With them come joy, power, and genius at levels known only in legend. Palpable personal presence and irresistible influence result.[^6]
 
-The world system, based on weak, mechanical power, cannot suppress people like this. On the contrary, it awaits them, too. Ten such people can turn the tide of the world, freeing billions to take care of themselves again.
+The world system, based on weak, mechanical power, cannot suppress people like this. On the contrary, its awaits them, too. Ten such people can turn the tide of the world, freeing billions to take care of themselves again. 
 
 Living power is the felt element of a state organized by the distributive principle. The other main elements are the preceding ideas and the following actions.
 
 ##### autonomous infrastructure
 
-Freedom requires material independence. But nearly everyone physically depends on state-controlled, centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste (grey, black, solid), electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its greatest life-and-death power over us.
+Freedom requires material independence. But nearly everyone physically depends on state-controlled, centralized infrastructure. Infrastructure consists of basic life support systems: water (supply and runoff), waste (liquid, solid), electricity, heating, transportation. Infrastructure, not defense, is the biggest, most pervasive activity of the centralized state, the cause of its persistence, and its greatest life-and-death power over us.
 
-So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure. It is onsite, simple, repairable, replaceable without political compromise. Likewise, we replace the system's secondary services: money, education, medicine, communication, etc.[^5][^6]
+So we use our restored intelligence and power to replace centralized infrastructure with autonomous infrastructure.[^7] It is onsite, simple, maintainable without political compromise.[^8] Likewise, we replace the system's soft services: money, education, medicine, communication, etc.
 
 Restored capacity obviates things and actions. Latent ability, knowledge, and skills emerge. All reinforce independence. 
 
@@ -151,13 +149,15 @@ The centralized system is fragile. It depends on complete control. Its commandin
 
 Most elites support centralized control for lack of a serious alternative. As they switch to ours, others lose their will and power to stop us. We offer everyone peace and a way to heal from the cause of the suffering that drives us toward needless disaster.
 
-This is an individualist analysis of our ancient political problem and a solution, with a strategy to apply it. One can start small, alone or with others. It is cheap, rational, and quick. Properly understood and applied, it solves or enables solutions to all problems on every scale going back over 10,000 years. It restores peace in the world and man to his place in it.
+This is an individualist analysis of our ancient political problem, a solution, and a strategy to apply the solution. One can start small, alone or with others. It is cheap, rational, and quick. Properly understood and applied, it solves or enables solutions to all problems on every scale going back over 10,000 years. It restores peace in the world, and man to his place in it.
 
-See [individualism](/other/individualism) for elaboration and full sources.
+See notes on [individualism](/other/individualism) for elaboration and more sources.
 
-[^1]: Rand
-[^2]: Rothbard, Tannehills
-[^3]: Locke
-[^4]: Durham
-[^5]: Gupta
-[^6]: de Decker
+[^1]: Ayn Rand is the source of the ideas in the preceding section to this point. See _Capitalism: the Unknown Ideal_.
+[^2]: [_The Market for Liberty_](https://mises.org/library/book/market-liberty), Morris and Linda Tannehill. The authors develop the details of this idea of Murray Rothbard to an overwhelmingly convincing degree.
+[^3]: See _Atlas Shrugged_ by Ayn Rand, especially 3:1,2,10 and _The Moon is a Harsh Mistress_ by Robert Heinlein, for stories that show such societies in action.
+[^4]: _Second Treatise of Government_, John Locke
+[^5]: [Jurisdictionary](https://howtowinincourt.com?refercode=DA0054): learn enough law to start winning in court in 6-8 hours!
+[^6]: [_hygienic dark retreat_](/), Andrew Durham
+[^7]: ["Infrastructure for Anarchists"](http://vinay.howtolivewiki.com/blog/global/infrastructure_for_anarchists_1155-1155), a talk by Vinay Gupta, engineer-philosopher
+[^8]: [lowtechmagazine.com](https://lowtechmagazine.com), Kris de Decker, who refuses to assume that every problem has a high-tech solution
