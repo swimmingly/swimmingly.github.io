@@ -8,7 +8,7 @@ navnext: individualism
 
 ### captive
 
-We need freedom to live. But a universal mistake about government holds us captive. This essay shows how to escape. It explains how to reverse the conditions in which we made the mistake in the first place.
+We need freedom to live. But a universal mistake about government holds us captive. This essay shows how to escape. And it explains how to reverse the conditions in which we made the mistake in the first place.
 
 ### mistake
 
@@ -67,7 +67,8 @@ Identifying another kind of state only takes a little logic. The collectivist fo
 
 The opposite, individualist form of government would be the _distributed state_. It mirrors the fact of man's separate, distributed nature. It formalizes the natural government of a society: the simple actions people take to keep the peace in it. It is the real and living state eternally among us, the great political secret invisible till now, which we can finally discern and recognize.
 
-![diagram: system types](/img/plan/image/system.png)
+![diagram: system types](/img/plan/image/system.png)  
+(_America's system, for example, is between a centralized and decentralized system with the federal level sharing the burden of government with the states and counties and separation of powers at three branches at all levels_)
 
 The distributed state retains the essential functions of government: legislation, defense, and adjudication, but in self-governed form. Everyone keeps his power, not delegates it. He makes his own laws in the form of contracts. He defends himself and settles his own disputes.
 
