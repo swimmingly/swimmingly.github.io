@@ -68,7 +68,7 @@ Identifying another kind of state only takes a little logic. The collectivist fo
 The opposite, individualist form of government would be the _distributed state_. It mirrors the fact of man's separate, distributed nature. It formalizes the natural government of a society: the simple actions people take to keep the peace in it. It is the real and living state eternally among us, the great political secret invisible till now, which we can finally discern and recognize.
 
 ![diagram: system types](/img/plan/image/system.png)  
-(_America's system, for example, is between a centralized and decentralized system with the federal level sharing the burden of government with the states and counties and separation of powers at three branches at all levels_)
+(_America's system, for example, is between a centralized and decentralized system. The federal level share power with the states and counties, and the three separated branches share it at all levels._)
 
 The distributed state retains the essential functions of government: legislation, defense, and adjudication, but in self-governed form. Everyone keeps his power, not delegates it. He makes his own laws in the form of contracts. He defends himself and settles his own disputes.
 
@@ -154,11 +154,11 @@ This is an individualist analysis of our ancient political problem, a solution, 
 
 See notes on [individualism](/other/individualism) for elaboration and more sources.
 
-[^1]: Ayn Rand is the source of the ideas in the preceding section to this point. See _Capitalism: the Unknown Ideal_.
+[^1]: Ayn Rand is the source of the ideas from this point back through the preceding section. See _Capitalism: the Unknown Ideal_.
 [^2]: [_The Market for Liberty_](https://mises.org/library/book/market-liberty), Morris and Linda Tannehill. The authors develop the details of this idea of Murray Rothbard to an overwhelmingly convincing degree.
 [^3]: See _Atlas Shrugged_ by Ayn Rand, especially 3:1,2,10 and _The Moon is a Harsh Mistress_ by Robert Heinlein, for stories that show such societies in action.
 [^4]: _Second Treatise of Government_, John Locke
 [^5]: [Jurisdictionary](https://howtowinincourt.com?refercode=DA0054): learn enough law to start winning in court in 6-8 hours!
 [^6]: [_hygienic dark retreat_](/), Andrew Durham
-[^7]: ["Infrastructure for Anarchists"](http://vinay.howtolivewiki.com/blog/global/infrastructure_for_anarchists_1155-1155), a talk by Vinay Gupta, engineer-philosopher
-[^8]: [lowtechmagazine.com](https://lowtechmagazine.com), Kris de Decker, who refuses to assume that every problem has a high-tech solution
+[^7]: ["Infrastructure for Anarchists"](http://vinay.howtolivewiki.com/blog/global/infrastructure_for_anarchists_1155-1155), Vinay Gupta, engineer-philosopher (audio)
+[^8]: [lowtechmagazine.com](https://lowtechmagazine.com), Kris de Decker, who refuses to assume that every problem has a high-tech solution.
