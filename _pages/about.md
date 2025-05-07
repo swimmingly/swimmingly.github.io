@@ -20,25 +20,23 @@ Welcome. This website contains:
 
 See more about:
 
-- my [services](/back/services)
+- my [services](/back/services), including my contact information
 - how to [license](/back/license) my book to sell it
 - ways to [participate](/back/participate)
 - [me](/back/bio)
 
-{% include contact.md %}
-
 #### newsletter
 
-{% include newsletter.md %}
+{% include news-hdr.md %}
 
 #### site history
 
 - 2000 - 2009: geocities.com/secretdesign
 - 2009 - 2013: andrewdurham.com (WordPress)
-- 2013 - 2024: darkroomretreat.com (nanoc, then jekyll)
+- 2013 - 2024: darkroomretreat.com (nanoc, jekyll)
 - 2024 - now : hygienicdarkretreat.com (jekyll)
 
-[web.archive.org](https://web.archive.org) does a fair job of tracking the changes.
+[web.archive.org](https://web.archive.org) does a fair job of tracking changes.
 
 {% include cover.md %}
 

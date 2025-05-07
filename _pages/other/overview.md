@@ -154,7 +154,7 @@ This is an individualist analysis of our ancient political problem, a solution, 
 
 See notes on [individualism](/other/individualism) for elaboration and more sources.
 
-[^1]: Ayn Rand is the source of the ideas from this point back through the preceding section. See _Capitalism: the Unknown Ideal_.
+[^1]: Ayn Rand is the source of the ideas from the preceding section to this point. See _Capitalism: the Unknown Ideal_.
 [^2]: [_The Market for Liberty_](https://mises.org/library/book/market-liberty), Morris and Linda Tannehill. The authors develop the details of this idea of Murray Rothbard to an overwhelmingly convincing degree.
 [^3]: See _Atlas Shrugged_ by Ayn Rand, especially 3:1,2,10 and _The Moon is a Harsh Mistress_ by Robert Heinlein, for stories that show such societies in action.
 [^4]: _Second Treatise of Government_, John Locke
@@ -162,3 +162,5 @@ See notes on [individualism](/other/individualism) for elaboration and more sour
 [^6]: [_hygienic dark retreat_](/), Andrew Durham
 [^7]: ["Infrastructure for Anarchists"](http://vinay.howtolivewiki.com/blog/global/infrastructure_for_anarchists_1155-1155), Vinay Gupta, engineer-philosopher (audio)
 [^8]: [lowtechmagazine.com](https://lowtechmagazine.com), Kris de Decker, who refuses to assume that every problem has a high-tech solution.
+
+{% include news-ip.md %}

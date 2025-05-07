@@ -218,9 +218,9 @@ Here are the history and workings of a distributed state.
 
 Certain books are essential to fully understanding the individualist distributed state. They hold its philosophy, mechanics, and image---what it would be like.
 
-_Atlas Shrugged_ by Ayn Rand is important to read first. Rand sets the stage for the next two. The image and some mechanics are especially present in part 3, chapters 1-2.
+_Atlas Shrugged_ by Ayn Rand is important to read first. Rand sets the stage for the next two. The image and some mechanics are especially present in part 3, chapters 1-2 & 10.
 
-_The Moon is a Harsh Mistress_ by Robert Heinlein shows a whole world operating in a distributed way. It is super fast-paced and fun, like all his books.
+[_The Moon is a Harsh Mistress_](https://archive.org/details/heinlein-the-moon-is-a-harsh-mistress) by Robert Heinlein shows a whole world operating in a distributed way. It is super fast-paced and fun, like all his books.
 
 [_The Market for Liberty_](https://mises.org/library/book/market-liberty) by Morris and Linda Tannehill focuses on the mechanics but has plenty of philosophy and examples. They show how every function of centralized states is or would be better handled by individuals and companies. They explain the many failures of centralized states. They show the intriguing role of insurance companies in organizing most state functions: validating and insuring contracts, providing security and arbitration for those they insure, coordinating security forces and weaponry for even large-scale defense. The cost of governance can decrease from its current despotic rapacity to negligible levels with normal levels of profitability of business.
 
@@ -309,21 +309,21 @@ Freedom is the quality of a society that stands against the initiation of force 
 
 #### political types
 
-Here is a scale of political types from good to bad. It is a mixture of political theories, forms of government, and social organizations.
+Here is a scale of political types from good to bad. It is a mixture of politics, forms of government, and social organizations.
 
 - individualism
 	- perfect: ?
 	- pure: band society*
-	- close: individualist distributed state
+	- close: distributed state
 	- near: tribe*, capitalism
-	- weak/semi/pseudo: anarcho-capitalism, voluntarism, agorism
+	- weak/semi/pseudo: anarcho-capitalism
 - collectivism  
 	- weak: chiefdom*, republic, monarchy, conservatism, liberalism
-	- near: democracy, socialism, fascism, Satanism, Islam, Catholicism (Revelations 19:2 "great whore")
+	- near: democracy, socialism, fascism, Satanism, Talmudism, Catholicism (Revelations 19:2 "great whore"), Islam
 	- pure: communism (mass death)
 	- perfect: anarchy (annihilation)
 
-\* See [Primitive Social Organization](https://libkey.io/libraries/1809/articles/596068491/full-text-file?utm_source=api_2375), Elman Service. Also see [Stone Age Economics](https://archive.org/details/StoneAgeEconomics_201611), Marshall Sahlins.
+\* See [Primitive Social Organization](https://libkey.io/libraries/1809/articles/596068491/full-text-file?utm_source=api_2375), Elman Service. Also, [Stone Age Economics](https://archive.org/details/StoneAgeEconomics_201611), Marshall Sahlins.
 
 #### anti-anarchy
 
@@ -448,5 +448,5 @@ Recent blog posts on politics:
 [proposal: freedom](/blog/2020/11/proposal-freedom/)
 [freedom through darkness](/blog/2019/11/freedom-through-darkness/)
 
-
+{% include news-ip.md %}
 
