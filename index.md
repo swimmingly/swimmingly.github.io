@@ -20,7 +20,7 @@ _continue reading for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt
 
 ### newsletter
 
-{% include news-hdr.md %}
+{% include newsletter.md %}
 
 {% include cover.md %}
 

@@ -27,7 +27,7 @@ See more about:
 
 #### newsletter
 
-{% include news-hdr.md %}
+{% include newsletter.md %}
 
 #### site history
 
