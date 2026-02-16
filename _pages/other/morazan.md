@@ -1,6 +1,7 @@
 ---
 title: Morazan Report
 layout: page
+published: false
 navprev:
 permalink: /other/morazan/
 navnext:
