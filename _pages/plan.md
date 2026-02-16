@@ -15,9 +15,9 @@ A design and budget
 
 ![photo: conic](/img/plan/image/conic.png) 
 
-- [download](/img/plan/image/conic-hi.png "download png"){download} high-resolution png to zoom in
-- [download](/img/plan/conic.pdf "download pdf"){download} pdf
-- [download](/img/plan/source/conic.svg "download svg"){download} svg source file for editing with [Inkscape](https://inkscape.org).
+- <a href="/img/plan/image/conic-hi.png" download="conic-hi.png" title="download high-res png">download</a> high-resolution png to zoom in
+- <a href="/img/plan/conic.pdf" download="conic.pdf" title="download pdf">download</a> pdf to view or print
+- <a href="/img/plan/source/conic.svg" download="conic.svg" title="download svg">download</a> svg source file for editing with [Inkscape](https://inkscape.org).
 
 - - -
 
