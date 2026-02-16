@@ -2,7 +2,7 @@
 title: Morazan Report
 layout: page
 navprev:
-permalink: /morazan/
+permalink: /other/morazan/
 navnext:
 ---
 
