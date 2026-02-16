@@ -1,3 +1,11 @@
+---
+title: Morazan Report
+layout: page
+navprev:
+permalink: /morazan/
+navnext:
+---
+
 Andrew Durham 
 born 1971, Idaho, USA
 philosopher, hygienist (scientist of health), designer
