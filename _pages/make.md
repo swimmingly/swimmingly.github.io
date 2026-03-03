@@ -46,14 +46,14 @@ A darkroom is a real thing you see and touch, make, use, and offer others. It is
 
 These are normal activities. Everyone does them to some degree. and get help with the rest. If you can walk down stairs without falling, slice a loaf of bread, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, a mechanical engineer and my grand-elder, told me when my time came, "Become a craftsman." Perhaps your time has come. Become a craftsman.
 
-I make mistakes as I make things. Don't imagine otherwise. Don't imagine you won't. Fix what you can. Start over when you must. There are only two embarrassments in craftwork:
+I make mistakes as I make things. You will, too. Fix what you can. Start over when you must. There are only two embarrassments in craftwork:
 
-1. having zero ability with it for lack of trying and trying again until you succeed. Way too many people these days are thus embarrassed. Don't be counted among them just because you got a late start. Life requires making things. Get to it. Don't wait for the robots.
+1. having zero ability with it for lack of trying until you succeed. Way too many people these days are thus embarrassed. Don't be counted among them just because you got a late start. Life requires making things. Get to it. Don't wait for the robots.
 2. not scrapping a ruined piece of work. Start over. It's what trash cans are for.
 
 Jack, ever good-natured, talked to us like this when we were kids. We loved it. He challenged us, inspired us, and helped us when we wanted to make something.
 
-A sniper's rule could belong to craftsman, too: "Aim small, miss small." The precision of the plans to follow helps you aim small. The designs and materials are forgiving. Little mistakes can be absorbed, bigger ones, corrected or repaired, fatal ones, quickly forgotten with a fresh set of parts.
+A sniper's rule could belong to a craftsman, too: "Aim small, miss small." The precision of the plans to follow helps you aim small. The designs and materials are forgiving. Little mistakes can be absorbed, bigger ones, corrected or repaired, fatal ones, quickly forgotten with a fresh set of parts.
 
 I suggest that, your first time through these last chapters, just read the prose parts. Skim or skip the instructions till you make something. They can make quite dense reading before you have great need.
 
@@ -113,14 +113,15 @@ Making components requires most or all of these tools:
 1. table or desk
 2. measure
 	1. Note: before purchase, test tools for accuracy, which can vary between identical tools, even of good brands. Instructions below.
-	2. metric ruler, 45--50cm, clear plastic. If reproducing plans by hand rather than printing them, also get a 30cm [Incra ruler](https://www.incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
-	3. metric measuring tape, 5m
+	2. metric ruler, 500-, clear plastic.
+	3. metric ruler, 300-, stainless [Incra rule](https://www.incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
+	4. metric measuring tape, 5m
 		1. common in dollar stores and Harbor Freight Tools in America
 		2. hook tape on end of meter stick and compare marks for accuracy of external measurement
 		3. push end of meter stick against a wall, put tape on top of meter stick, and compare marks for accuracy of internal measurement
-	4. optional: meter stick, steel with engraved marks
+	5. optional: meter stick, steel with engraved marks
 		1. skip this in America. It's too hard to find. You just need a long straight edge. 
-		2. put marked edges of two sticks together so 40cm mark of one meets 60cm mark of other
+		2. put marked edges of two sticks together so marks meet each other
 		2. push ends of both against a wall and check how well marks line up
 		3. repeat with other sticks till you find a match
 		4. buy one of them 
