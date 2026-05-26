@@ -10,11 +10,11 @@ navnext: individualism
 
 ### captive
 
-We need freedom to live. But a universal mistake about government holds us captive: the assumption that a state is centralized.
+We need freedom to live. But a universal mistake about government holds us captive. It is the assumption that a state is centralized.
 
 This assumption is as old as civilization. Everyone has made it, from Ancients to Moderns, kings to anarchists. Some want to build up the state, others, to tear it down. But they all agree: a state is inherently centralized and can be no other way.
 
-Actually, centralization is just one possible organizing principle of a state. It is a non-essential attribute. Function—what a state does for people—is essential. 
+Actually, centralization is just one possible organizing principle of a state and a non-essential attribute. What a state does for people—function—is essential. 
 
 In this essay, we will use political philosophy to identify the function of the state. We will analyze the fatal flaws of centralized states. Then we will derive the alternative. We will describe it in thought, feeling, and action. And we will lay out a surprising strategy to attain it in a volatile world.
 
