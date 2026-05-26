@@ -71,7 +71,7 @@ Identifying another kind of state just takes a bit of logic. The collectivist fo
 
 An individualist form of government would be the opposite: a _distributed state_. It mirrors man's discrete, distributed nature. It is seated at the individual level, with no individual delegation of power to central bodies.
 
-![diagram: system types](img/plan/image/system.png)  
+![diagram: system types](/img/plan/image/system.png)  
 (_America's system, for example, mixes centralized and decentralized systems. The federal level shares power with the states and counties, and the three separated branches share it at all levels._)
 
 The distributed state formalizes the natural government of man: the relationships people normally form in peace and the actions they normally take to keep the peace. It is the real and living state eternally among us, whether visible and acknowledged or hidden and denied. It is the greatest political secret of all. We can rediscover and use it to escape our bondage.
