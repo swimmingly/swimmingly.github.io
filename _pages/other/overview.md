@@ -10,25 +10,23 @@ navnext: individualism
 
 ### captive
 
-We need freedom to live. But a universal mistake about government holds us captive. It is the assumption that a state is centralized.
+We need freedom to live. But a universal mistake about government holds us captive. The mistake is the assumption that a state is centralized.
 
-This assumption is as old as civilization. Everyone has made it, from Ancients to Moderns, kings to anarchists. Some want to build up the state, others, to tear it down. But they all agree: a state is inherently centralized and can be no other way.
+This assumption is as old as civilization. Everyone has made it, from the ancients to the moderns, kings to anarchists. Some want to build up the state, others, to tear it down. But they all agree: a state is inherently centralized and can be no other way.
 
-Actually, centralization is just one possible organizing principle of a state and a non-essential attribute. What a state does for people—function—is essential. 
+Actually, centralization is just one possible organizing principle of a state. It is a non-essential attribute. What a state does for people—function—is essential.
 
-In this essay, we will use political philosophy to identify the function of the state. We will analyze the fatal flaws of centralized states. Then we will derive the alternative. We will describe it in thought, feeling, and action. And we will lay out a surprising strategy to attain it in a volatile world.
+In this essay, we will use political philosophy to identify the function of the state. We will analyze the fatal flaws of centralized states. Then we will derive the alternative. We will contrast it with centralization in thought, feeling, and action. And we will lay out a surprising strategy to attain it in a volatile world.
 
 ### politics
 
-Philosophy describes the fundamental facts and nature of reality---the world and oneself (in metaphysics), how it is known (epistemology), and what should be done about it (ethics). Philosophy stands on the peak of knowledge, surveying and directing it all. Philosophy is our most important science.
+Philosophy describes the basic facts of reality: man and the world (metaphysics), how he knows it (epistemology), and what he should do about it (ethics). Philosophy stands on the peak of knowledge, surveying and directing it all. Philosophy is our most important science.
 
-After the world and oneself, others are the next most important fact of reality. How to relate to them requires an entire branch of philosophy: politics. 
-
-One fact about people is so important, it defines politics. It is man's great and terrible power to use physical force against others. Politics determines how physical force is to be used in society. It conditions everyone's thoughts and choices. It saves or dooms millions on a daily basis.
+How to relate to others requires another branch of philosophy: politics. Its main issue is man's great and terrible power to use physical force against others. Politics defines how this power is to be used in society.
 
 If used in defense, force frees people to live in peace and prosperity. It achieves universal justice. If used in offense, force deceives, robs, enslaves, and murders people and destroys the world. It achieves universal crime.
 
-In effect, politics asks everyone a single question: freedom or slavery? Shall I live by right to life, liberty, and property—my body, motility, and possessions? Or shall I exist by permission, under legal compulsion, to be dispossessed, enslaved, and killed at the will of others?
+In effect, politics asks everyone a single question: freedom or slavery? Shall I live by right to life, liberty, and property—my body, motility, and possessions? Or shall I exist by permission, under legal compulsion, to be robbed, enslaved, and killed at the will of others?
 
 ### analysis
 
@@ -71,7 +69,7 @@ Identifying another kind of state just takes a bit of logic. The collectivist fo
 
 An individualist form of government would be the opposite: a _distributed state_. It mirrors man's discrete, distributed nature. It is seated at the individual level, with no individual delegation of power to central bodies.
 
-![diagram: system types](/img/plan/image/system.png)  
+![diagram: system types](img/plan/image/system.png)  
 (_America's system, for example, mixes centralized and decentralized systems. The federal level shares power with the states and counties, and the three separated branches share it at all levels._)
 
 The distributed state formalizes the natural government of man: the relationships people normally form in peace and the actions they normally take to keep the peace. It is the real and living state eternally among us, whether visible and acknowledged or hidden and denied. It is the greatest political secret of all. We can rediscover and use it to escape our bondage.
@@ -127,6 +125,17 @@ Assymmetry means a focus on factors the centralized system ignores or can't easi
 Learning is a common point of strategy. But living power and autonomous infrastructure need explanation.
 
 ##### power
+
+<!-- A power greater than physical force is required to control it. This force is power. 
+
+morality
+
+health → vitality → virtue (moral status) → authority
+
+Collectivism results 
+from traumatized people with little power. Their power must be _collected_ to be efficacious. They must be collected with it into collectives ruled by centralized state.
+
+-->
 
 Freedom requires power. Power is the capacity for freedom, to control one's life and social context. A freeman is powerful; a slave is powerless.
 
